@@ -1,0 +1,33 @@
+{
+ "id": "com.johnsmr429.reco",
+ "version": "1.0.0",
+ "name": "Recommandés pour toi",
+ "description": "Sélection perso basée sur ta bibliothèque Stremio.",
+ "resources": [
+  "catalog"
+ ],
+ "types": [
+  "movie",
+  "series"
+ ],
+ "catalogs": [
+  {
+   "type": "movie",
+   "id": "reco-anim",
+   "name": "Ghibli & animation"
+  },
+  {
+   "type": "movie",
+   "id": "reco-fantasy",
+   "name": "Fantasy à découvrir"
+  },
+  {
+   "type": "series",
+   "id": "reco-series",
+   "name": "Séries à découvrir"
+  }
+ ],
+ "behaviorHints": {
+  "configurable": false
+ }
+}

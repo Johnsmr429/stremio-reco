@@ -1,0 +1,97 @@
+{
+ "metas": [
+  {
+   "id": "tt0245429",
+   "type": "movie",
+   "name": "Le Voyage de Chihiro",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/12TAqK0AUgdcYE9ZYZ9r7ASbH5Q.jpg",
+   "description": "Chihiro, 10 ans, a tout d’une petite fille capricieuse. Elle s’apprête à emménager avec ses parents dans une nouvelle demeure. Sur la route, la petite famille se retrouve face à un immense bâtiment rouge au centre duquel s’ouvre un long tunnel. De l’autre côté du passage se dresse une ville fantôme.",
+   "releaseInfo": "2003",
+   "genres": [
+    "Animation",
+    "Familial",
+    "Fantastique"
+   ]
+  },
+  {
+   "id": "tt0096283",
+   "type": "movie",
+   "name": "Mon voisin Totoro",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEpy8IiR8N0S6mgkdAjDCMlMYQO.jpg",
+   "description": "Mei, 4 ans, et Satsuki, 10 ans, s’installent à la campagne avec leur père pour se rapprocher de l’hôpital où séjourne leur mère. Elles découvrent la nature tout autour de la maison et, surtout, l’existence d’animaux étranges et merveilleux, les Totoros, avec qui elles deviennent très amies. Un jour,",
+   "releaseInfo": "1990",
+   "genres": [
+    "Fantastique",
+    "Animation",
+    "Familial"
+   ]
+  },
+  {
+   "id": "tt0097814",
+   "type": "movie",
+   "name": "Kiki la petite sorcière",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tdOJxx6PCzjPYViSnk0OPQ80X2d.jpg",
+   "description": "À l'âge de 13 ans, une future sorcière doit partir faire son apprentissage dans une ville inconnue durant un an. Une expérience que va vivre la jeune et espiègle Kiki aux côtés de Osono, une gentille boulangère qui lui propose un emploi de livreuse.",
+   "releaseInfo": "1990",
+   "genres": [
+    "Animation",
+    "Familial",
+    "Fantastique"
+   ]
+  },
+  {
+   "id": "tt5198068",
+   "type": "movie",
+   "name": "Le Peuple Loup",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/99nGeJE30eYsg6SwMGkyYK938r2.jpg",
+   "description": "Apprentie chasseuse, Robyn se rend en Irlande avec son père pour exterminer la dernière meute de loups. Pourtant, sa vie va changer lorsqu’elle se lie d’amitié avec une jeune fille intrépide dont on dit que la tribu se change en loups la nuit tombée.",
+   "releaseInfo": "2020",
+   "genres": [
+    "Animation",
+    "Familial",
+    "Aventure",
+    "Fantastique"
+   ]
+  },
+  {
+   "id": "tt1865505",
+   "type": "movie",
+   "name": "Le Chant de la mer",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHnQSQrT9hYUUdjAFn9iaSZuatq.jpg",
+   "description": "Ben et Maïna vivent avec leur père tout en haut d'un phare sur une petite île. Pour les protéger des dangers de la mer, leur grand-mère les emmène vivre à la ville. Ben découvre alors que sa petite soeur est une selkie, une fée de la mer dont le chant peut délivrer les êtres magiques du sort que leu",
+   "releaseInfo": "2015",
+   "genres": [
+    "Familial",
+    "Animation",
+    "Fantastique"
+   ]
+  },
+  {
+   "id": "tt13429870",
+   "type": "movie",
+   "name": "Mon ami robot",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52a74RxIaYgdZxUoe0SxcUa2Vy7.jpg",
+   "description": "Chien, vit à Manhattan et la solitude lui pèse. Un jour, il décide de construire un robot et deviennent alors les meilleurs amis du monde ! Par une nuit d’été, Chien avec grande tristesse, est obligé d’abandonner Robot sur la plage. Se reverront-ils un jour ?",
+   "releaseInfo": "2024",
+   "genres": [
+    "Animation",
+    "Drame",
+    "Comédie",
+    "Science-Fiction"
+   ]
+  },
+  {
+   "id": "tt4729430",
+   "type": "movie",
+   "name": "Klaus",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qb0eCUtvi2Rn5etdqFbaYzvIPYn.jpg",
+   "description": "Un facteur égoïste et un fabricant de jouets solitaire forgent une amitié improbable, apportant la joie à une bourgade sombre et froide qui en a désespérément besoin.",
+   "releaseInfo": "2019",
+   "genres": [
+    "Animation",
+    "Familial",
+    "Comédie"
+   ]
+  }
+ ]
+}

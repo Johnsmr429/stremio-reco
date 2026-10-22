@@ -1,0 +1,65 @@
+{
+ "metas": [
+  {
+   "id": "tt5607976",
+   "type": "series",
+   "name": "His Dark Materials : À la croisée des mondes",
+   "poster": "https://artworks.thetvdb.com/banners/v4/series/360295/posters/63a31014659b7.jpg",
+   "description": "Courageuse et futée, Lyra se retrouve embarquée dans une folle aventure dans les contrées du Nord, à la recherche de son meilleur ami disparu. Pourquoi cette jeune fille orpheline, élevée dans l'atmosphère austère et confinée du prestigieux Jordan College, fait-elle l'objet de tant d'attentions ? Se",
+   "releaseInfo": "2019-2022",
+   "genres": [
+    "Science Fiction",
+    "Fantasy",
+    "Family",
+    "Drama",
+    "Adventure",
+    "Action"
+   ]
+  },
+  {
+   "id": "tt13309742",
+   "type": "series",
+   "name": "Blue Eye Samurai",
+   "poster": "https://artworks.thetvdb.com/banners/v4/series/434151/posters/65105a57cf28e.jpg",
+   "description": "Cherchant à se venger de ceux qui ont fait d'elle une paria dans le Japon de l'époque d'Edo, une jeune guerrière se fraye un chemin sanglant vers son destin.",
+   "releaseInfo": "2023-",
+   "genres": [
+    "Drama",
+    "Animation",
+    "Adventure",
+    "Action"
+   ]
+  },
+  {
+   "id": "tt6517102",
+   "type": "series",
+   "name": "Castlevania",
+   "poster": "https://artworks.thetvdb.com/banners/posters/329065-2.jpg",
+   "description": "Un tueur de vampires se bat pour sauver une ville assiégée par une armée de bêtes contrôlées par Dracula. Série inspirée du jeu vidéo classique.",
+   "releaseInfo": "2017-2021",
+   "genres": [
+    "Horror",
+    "Fantasy",
+    "Drama",
+    "Animation",
+    "Adventure",
+    "Action"
+   ]
+  },
+  {
+   "id": "tt5180504",
+   "type": "series",
+   "name": "The Witcher",
+   "poster": "https://artworks.thetvdb.com/banners/v4/series/362696/posters/6447fd2e14bd2.jpg",
+   "description": "Le sorceleur Geralt, un chasseur de monstres mutant, se bat pour trouver sa place dans un monde où les humains se révèlent souvent plus vicieux que les bêtes.",
+   "releaseInfo": "2019-",
+   "genres": [
+    "Fantasy",
+    "Drama",
+    "Adventure",
+    "Action",
+    "Mystery"
+   ]
+  }
+ ]
+}
