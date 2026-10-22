@@ -1,107 +1,6 @@
 {
  "metas": [
   {
-   "id": "tt0903624",
-   "type": "movie",
-   "name": "Le Hobbit : Un voyage inattendu",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdy9mG31U7jSB8edfRELv53Yfjp.jpg",
-   "description": "Dans un voyage inattendu, Bilbon Sacquet cherche à reprendre le Royaume perdu des Nains d'Erebor, conquis par le redoutable dragon Smaug. Alors qu'il croise par hasard la route du magicien Gandalf le Gris, Bilbon rejoint une bande de 13 nains dont le chef n'est autre que le légendaire guerrier Thori",
-   "genres": [
-    "Aventure",
-    "Fantastique",
-    "Action"
-   ],
-   "releaseInfo": "2012"
-  },
-  {
-   "id": "tt1170358",
-   "type": "movie",
-   "name": "Le Hobbit : La Désolation de Smaug",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9JPVtscMdWGmOoWxNmc1hGdkxtM.jpg",
-   "description": "Bilbon Sacquet est entraîné dans une quête épique pour reconquérir le Royaume perdu des Nains d'Erebor et l'arracher aux griffes de l'effroyable dragon Smaug. Accompagné de 13 Nains et du Magicien Gandalf le Gris, Bilbon s'introduit dans la Montagne Solitaire armé du 'précieux' anneau de Gollum et d",
-   "genres": [
-    "Fantastique",
-    "Aventure",
-    "Action"
-   ],
-   "releaseInfo": "2013"
-  },
-  {
-   "id": "tt2310332",
-   "type": "movie",
-   "name": "Le Hobbit : La Bataille des cinq armées",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4wjbuC61iMaCqrO3bmGQ3ibuJE.jpg",
-   "description": "Atteignant enfin la Montagne Solitaire, Thorin et les Nains, aidés par Bilbon le Hobbit, ont réussi à récupérer leur royaume et leur trésor. Ils ont également réveillé le dragon Smaug qui déchaîne désormais sa colère sur les habitants de Lac-ville. À présent, les Nains, les Elfes, les Humains mais a",
-   "genres": [
-    "Action",
-    "Aventure",
-    "Fantastique"
-   ],
-   "releaseInfo": "2014"
-  },
-  {
-   "id": "tt3183660",
-   "type": "movie",
-   "name": "Les Animaux Fantastiques",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7641iyvTdREC0eO2YUPmIk4PtrO.jpg",
-   "description": "New York 1926. Une force mystérieuse sème le chaos dans les rues, menaçant de révéler l’existence de la communauté des sorciers. Au même moment, Norbert Dragonneau débarque dans la ville au terme d’un périple à travers le monde. Il a répertorié un bestiaire d’animaux fantastiques dont certains sont ",
-   "genres": [
-    "Fantastique",
-    "Aventure"
-   ],
-   "releaseInfo": "2016"
-  },
-  {
-   "id": "tt4123430",
-   "type": "movie",
-   "name": "Les Animaux Fantastiques : Les Crimes de Grindelwald",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aU1AKE8tTkZouGNImmArvfP5smR.jpg",
-   "description": "1927 : Quelques mois après sa capture, le célèbre sorcier Gellert Grindelwald s'évade comme il l'avait promis et de façon spectaculaire. Réunissant de plus en plus de partisans, il est à l'origine d'attaque d'humains normaux par des sorciers et seul celui qu'il considérait autrefois comme un ami, Al",
-   "genres": [
-    "Fantastique",
-    "Aventure"
-   ],
-   "releaseInfo": "2018"
-  },
-  {
-   "id": "tt4123432",
-   "type": "movie",
-   "name": "Les Animaux fantastiques : Les Secrets de Dumbledore",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzvSMS4MqBg2ThgGOS2YkNkoebf.jpg",
-   "description": "Le professeur Albus Dumbledore sait que le puissant mage noir Gellert Grindelwald cherche à prendre le contrôle du monde des sorciers. Incapable de l’empêcher d’agir seul, il sollicite le magizoologiste Norbert Dragonneau pour qu’il réunisse des sorciers, des sorcières et un boulanger moldu au sein ",
-   "genres": [
-    "Fantastique",
-    "Aventure"
-   ],
-   "releaseInfo": "2022"
-  },
-  {
-   "id": "tt0499448",
-   "type": "movie",
-   "name": "Le Monde de Narnia : Le Prince caspian",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qAUAsolVqtXwHlo5q86202eweKy.jpg",
-   "description": "Un an après les incroyables événements du Monde de Narnia – Chapitre 1, les nouveaux rois et reines de Narnia sont de retour dans ce royaume magique. Mais à Narnia, plus de 1 000 années se sont écoulées. L’Âge d’Or du royaume est depuis longtemps révolu, et ce n’est plus maintenant qu’une légende. L",
-   "genres": [
-    "Aventure",
-    "Familial",
-    "Fantastique"
-   ],
-   "releaseInfo": "2008"
-  },
-  {
-   "id": "tt0980970",
-   "type": "movie",
-   "name": "Le Monde de Narnia : L'Odyssée du passeur d'aurore",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OawbDQ3W1Q6WtJWiNFyZebBY6E.jpg",
-   "description": "Happés à l’intérieur d’un intriguant tableau, Edmund et Lucy Pevensie, ainsi que leur détestable cousin Eustache, se retrouvent subitement projetés dans le royaume de Narnia, à bord d’un navire majestueux : le Passeur d’Aurore. Rejoignant Caspian, devenu roi, et l’intrépide souris guerrière Ripitchi",
-   "genres": [
-    "Aventure",
-    "Familial",
-    "Fantastique"
-   ],
-   "releaseInfo": "2010"
-  },
-  {
    "id": "tt0457430",
    "type": "movie",
    "name": "Le Labyrinthe de Pan",
@@ -112,21 +11,8 @@
     "Drame",
     "Guerre"
    ],
-   "releaseInfo": "2006"
-  },
-  {
-   "id": "tt0486655",
-   "type": "movie",
-   "name": "Stardust, le mystère de l'étoile",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZ0Cf2zmnIhyzBy7aO6yN3hJ442.jpg",
-   "description": "Il était une fois un petit village anglais si tranquille qu'on aurait pu le croire endormi. Niché au creux d'une vallée, il devait son nom inhabituel \"Wall\" au mur d'enceinte qui depuis des siècles dissuadait ses habitants de s'aventurer dans le royaume voisin, peuplé de lutins, sorcières, pirates v",
-   "genres": [
-    "Aventure",
-    "Fantastique",
-    "Romance",
-    "Familial"
-   ],
-   "releaseInfo": "2007"
+   "releaseInfo": "2006",
+   "imdbRating": "8.2"
   },
   {
    "id": "tt0093779",
@@ -140,46 +26,8 @@
     "Romance",
     "Aventure"
    ],
-   "releaseInfo": "1987"
-  },
-  {
-   "id": "tt0088323",
-   "type": "movie",
-   "name": "L'Histoire sans fin",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uNjv8pXsww78gikNM0eW8hqM57I.jpg",
-   "description": "Bastien, dix ans, est un passionné de romans d'aventures. Un jour, il dérobe un ouvrage merveilleux peuplé d'extraordinaires créatures. Il s'enfonce fébrilement dans l'univers fantastique de ce livre qui le fascine.",
-   "genres": [
-    "Aventure",
-    "Fantastique",
-    "Familial"
-   ],
-   "releaseInfo": "1984"
-  },
-  {
-   "id": "tt0091369",
-   "type": "movie",
-   "name": "Labyrinthe",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qEJ1eC4JMJgwFOYmmxWikWOX9k8.jpg",
-   "description": "Une toute jeune fille romantique se sentant mal à l’aise dans sa famille s’évade en lisant des contes fantastiques. Son livre favori « le Labyrinthe » lui ouvre une nuit les portes d’un autre monde. Sarah voit son jeune frère, Toby, enlevé par une troupe de lutins aux ordres du séduisant et cruel Ja",
-   "genres": [
-    "Aventure",
-    "Familial",
-    "Fantastique"
-   ],
-   "releaseInfo": "1986"
-  },
-  {
-   "id": "tt0096446",
-   "type": "movie",
-   "name": "Willow",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0WaeLwdljh1P9MHp989dp5XYDM.jpg",
-   "description": "Il était une fois un royaume peuplé de petits habitants appelés les Nelwyns. Ce peuple paisible était dominé de temps immémorial par les Daikinis, gens de grande taille gouvernés par la cruelle reine Bavmorda. Or il advint qu’un prophète annonçât la naissance d’une princesse appelée à détrôner Bavmo",
-   "genres": [
-    "Fantastique",
-    "Aventure",
-    "Action"
-   ],
-   "releaseInfo": "1988"
+   "releaseInfo": "1987",
+   "imdbRating": "8.0"
   },
   {
    "id": "tt0319061",
@@ -192,7 +40,36 @@
     "Fantastique",
     "Drame"
    ],
-   "releaseInfo": "2003"
+   "releaseInfo": "2003",
+   "imdbRating": "7.9"
+  },
+  {
+   "id": "tt0903624",
+   "type": "movie",
+   "name": "Le Hobbit : Un voyage inattendu",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdy9mG31U7jSB8edfRELv53Yfjp.jpg",
+   "description": "Dans un voyage inattendu, Bilbon Sacquet cherche à reprendre le Royaume perdu des Nains d'Erebor, conquis par le redoutable dragon Smaug. Alors qu'il croise par hasard la route du magicien Gandalf le Gris, Bilbon rejoint une bande de 13 nains dont le chef n'est autre que le légendaire guerrier Thori",
+   "genres": [
+    "Aventure",
+    "Fantastique",
+    "Action"
+   ],
+   "releaseInfo": "2012",
+   "imdbRating": "7.8"
+  },
+  {
+   "id": "tt1170358",
+   "type": "movie",
+   "name": "Le Hobbit : La Désolation de Smaug",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9JPVtscMdWGmOoWxNmc1hGdkxtM.jpg",
+   "description": "Bilbon Sacquet est entraîné dans une quête épique pour reconquérir le Royaume perdu des Nains d'Erebor et l'arracher aux griffes de l'effroyable dragon Smaug. Accompagné de 13 Nains et du Magicien Gandalf le Gris, Bilbon s'introduit dans la Montagne Solitaire armé du 'précieux' anneau de Gollum et d",
+   "genres": [
+    "Fantastique",
+    "Aventure",
+    "Action"
+   ],
+   "releaseInfo": "2013",
+   "imdbRating": "7.8"
   },
   {
    "id": "tt0099487",
@@ -205,57 +82,23 @@
     "Drame",
     "Romance"
    ],
-   "releaseInfo": "1990"
+   "releaseInfo": "1990",
+   "imdbRating": "7.8"
   },
   {
-   "id": "tt1935859",
+   "id": "tt0486655",
    "type": "movie",
-   "name": "Miss Peregrine et les enfants particuliers",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h8Yi1UM2p1VUZW8sOXfs9sogGVj.jpg",
-   "description": "À la mort de son grand-père, Jacob découvre l'existence d'un monde mystérieux. Plusieurs indices le mènent dans ce lieu magique : la Maison de Miss Peregrine pour Enfants Particuliers. Mais le mystère et le danger s'amplifient quand il apprend à connaître les résidents, leurs étranges pouvoirs... et",
+   "name": "Stardust, le mystère de l'étoile",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZ0Cf2zmnIhyzBy7aO6yN3hJ442.jpg",
+   "description": "Il était une fois un petit village anglais si tranquille qu'on aurait pu le croire endormi. Niché au creux d'une vallée, il devait son nom inhabituel \"Wall\" au mur d'enceinte qui depuis des siècles dissuadait ses habitants de s'aventurer dans le royaume voisin, peuplé de lutins, sorcières, pirates v",
    "genres": [
     "Aventure",
-    "Fantastique"
-   ],
-   "releaseInfo": "2016"
-  },
-  {
-   "id": "tt9243804",
-   "type": "movie",
-   "name": "The Green Knight",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/omVZ8m4aQAbkk2vHyTlkeBZUc7A.jpg",
-   "description": "À travers cette aventure fantastique et épique basée sur la légende arthurienne intemporelle, The Green Knight raconte l'histoire de Sir Gawain, le neveu téméraire et têtu du roi Arthur, qui se lance dans une quête audacieuse pour affronter le chevalier vert éponyme, un gigantesque étranger à la pea",
-   "genres": [
-    "Aventure",
-    "Drame",
-    "Fantastique"
-   ],
-   "releaseInfo": "2021"
-  },
-  {
-   "id": "tt0398808",
-   "type": "movie",
-   "name": "Le Secret de Térabithia",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f1B8wY7biJvqz3ieOItZygszRuv.jpg",
-   "description": "Jess est un garçon solitaire menant une vie terne. À l'école, il est la cible de toutes les moqueries et, chez lui, se retrouve obligé d'aider ses parents, qui éprouvent des difficultés financières, à effectuer les tâches ménagères. Ce quotidien monotone est transformé le jour où Jess fait la connai",
-   "genres": [
-    "Aventure",
-    "Drame",
+    "Fantastique",
+    "Romance",
     "Familial"
    ],
-   "releaseInfo": "2007"
-  },
-  {
-   "id": "tt0385752",
-   "type": "movie",
-   "name": "À la croisée des mondes : La Boussole d'or",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tAcPIX5GQy8XAhG2nqTQHmBLksI.jpg",
-   "description": "Lyra, 12 ans, est une orpheline rebelle qui vit à Jordan College, un établissement de l'Université d'Oxford, dans un monde parallèle qui ressemble au nôtre mais qui a évolué de façon un peu différente. Elle a pour compagnon Pantalaimon, son dæmon, un être capable de prendre de nombreuses formes anim",
-   "genres": [
-    "Aventure",
-    "Fantastique"
-   ],
-   "releaseInfo": "2007"
+   "releaseInfo": "2007",
+   "imdbRating": "7.6"
   },
   {
    "id": "tt0970179",
@@ -268,20 +111,91 @@
     "Drame",
     "Familial"
    ],
-   "releaseInfo": "2011"
+   "releaseInfo": "2011",
+   "imdbRating": "7.5"
   },
   {
-   "id": "tt1014759",
+   "id": "tt2310332",
    "type": "movie",
-   "name": "Alice au Pays des Merveilles",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w2FB25izMMWDoVckloSej0ctDJ2.jpg",
-   "description": "Alice, désormais âgée de 19 ans, retourne dans le monde fantastique qu'elle a découvert quand elle était enfant. Elle y retrouve ses amis le Lapin Blanc, Bonnet Blanc et Blanc Bonnet, le Loir, la Chenille, le Chat du Cheshire et, bien entendu, le Chapelier Fou. Alice s'embarque alors dans une aventu",
+   "name": "Le Hobbit : La Bataille des cinq armées",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4wjbuC61iMaCqrO3bmGQ3ibuJE.jpg",
+   "description": "Atteignant enfin la Montagne Solitaire, Thorin et les Nains, aidés par Bilbon le Hobbit, ont réussi à récupérer leur royaume et leur trésor. Ils ont également réveillé le dragon Smaug qui déchaîne désormais sa colère sur les habitants de Lac-ville. À présent, les Nains, les Elfes, les Humains mais a",
    "genres": [
+    "Action",
+    "Aventure",
+    "Fantastique"
+   ],
+   "releaseInfo": "2014",
+   "imdbRating": "7.4"
+  },
+  {
+   "id": "tt0088323",
+   "type": "movie",
+   "name": "L'Histoire sans fin",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uNjv8pXsww78gikNM0eW8hqM57I.jpg",
+   "description": "Bastien, dix ans, est un passionné de romans d'aventures. Un jour, il dérobe un ouvrage merveilleux peuplé d'extraordinaires créatures. Il s'enfonce fébrilement dans l'univers fantastique de ce livre qui le fascine.",
+   "genres": [
+    "Aventure",
+    "Fantastique",
+    "Familial"
+   ],
+   "releaseInfo": "1984",
+   "imdbRating": "7.3"
+  },
+  {
+   "id": "tt0091369",
+   "type": "movie",
+   "name": "Labyrinthe",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qEJ1eC4JMJgwFOYmmxWikWOX9k8.jpg",
+   "description": "Une toute jeune fille romantique se sentant mal à l’aise dans sa famille s’évade en lisant des contes fantastiques. Son livre favori « le Labyrinthe » lui ouvre une nuit les portes d’un autre monde. Sarah voit son jeune frère, Toby, enlevé par une troupe de lutins aux ordres du séduisant et cruel Ja",
+   "genres": [
+    "Aventure",
     "Familial",
+    "Fantastique"
+   ],
+   "releaseInfo": "1986",
+   "imdbRating": "7.3"
+  },
+  {
+   "id": "tt3183660",
+   "type": "movie",
+   "name": "Les Animaux Fantastiques",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7641iyvTdREC0eO2YUPmIk4PtrO.jpg",
+   "description": "New York 1926. Une force mystérieuse sème le chaos dans les rues, menaçant de révéler l’existence de la communauté des sorciers. Au même moment, Norbert Dragonneau débarque dans la ville au terme d’un périple à travers le monde. Il a répertorié un bestiaire d’animaux fantastiques dont certains sont ",
+   "genres": [
     "Fantastique",
     "Aventure"
    ],
-   "releaseInfo": "2010"
+   "releaseInfo": "2016",
+   "imdbRating": "7.2"
+  },
+  {
+   "id": "tt0096446",
+   "type": "movie",
+   "name": "Willow",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0WaeLwdljh1P9MHp989dp5XYDM.jpg",
+   "description": "Il était une fois un royaume peuplé de petits habitants appelés les Nelwyns. Ce peuple paisible était dominé de temps immémorial par les Daikinis, gens de grande taille gouvernés par la cruelle reine Bavmorda. Or il advint qu’un prophète annonçât la naissance d’une princesse appelée à détrôner Bavmo",
+   "genres": [
+    "Fantastique",
+    "Aventure",
+    "Action"
+   ],
+   "releaseInfo": "1988",
+   "imdbRating": "7.2"
+  },
+  {
+   "id": "tt0398808",
+   "type": "movie",
+   "name": "Le Secret de Térabithia",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f1B8wY7biJvqz3ieOItZygszRuv.jpg",
+   "description": "Jess est un garçon solitaire menant une vie terne. À l'école, il est la cible de toutes les moqueries et, chez lui, se retrouve obligé d'aider ses parents, qui éprouvent des difficultés financières, à effectuer les tâches ménagères. Ce quotidien monotone est transformé le jour où Jess fait la connai",
+   "genres": [
+    "Aventure",
+    "Drame",
+    "Familial"
+   ],
+   "releaseInfo": "2007",
+   "imdbRating": "7.2"
   },
   {
    "id": "tt1587310",
@@ -296,7 +210,116 @@
     "Familial",
     "Romance"
    ],
-   "releaseInfo": "2014"
+   "releaseInfo": "2014",
+   "imdbRating": "6.9"
+  },
+  {
+   "id": "tt1935859",
+   "type": "movie",
+   "name": "Miss Peregrine et les enfants particuliers",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h8Yi1UM2p1VUZW8sOXfs9sogGVj.jpg",
+   "description": "À la mort de son grand-père, Jacob découvre l'existence d'un monde mystérieux. Plusieurs indices le mènent dans ce lieu magique : la Maison de Miss Peregrine pour Enfants Particuliers. Mais le mystère et le danger s'amplifient quand il apprend à connaître les résidents, leurs étranges pouvoirs... et",
+   "genres": [
+    "Aventure",
+    "Fantastique"
+   ],
+   "releaseInfo": "2016",
+   "imdbRating": "6.7"
+  },
+  {
+   "id": "tt4123430",
+   "type": "movie",
+   "name": "Les Animaux Fantastiques : Les Crimes de Grindelwald",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aU1AKE8tTkZouGNImmArvfP5smR.jpg",
+   "description": "1927 : Quelques mois après sa capture, le célèbre sorcier Gellert Grindelwald s'évade comme il l'avait promis et de façon spectaculaire. Réunissant de plus en plus de partisans, il est à l'origine d'attaque d'humains normaux par des sorciers et seul celui qu'il considérait autrefois comme un ami, Al",
+   "genres": [
+    "Fantastique",
+    "Aventure"
+   ],
+   "releaseInfo": "2018",
+   "imdbRating": "6.5"
+  },
+  {
+   "id": "tt0499448",
+   "type": "movie",
+   "name": "Le Monde de Narnia : Le Prince caspian",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qAUAsolVqtXwHlo5q86202eweKy.jpg",
+   "description": "Un an après les incroyables événements du Monde de Narnia – Chapitre 1, les nouveaux rois et reines de Narnia sont de retour dans ce royaume magique. Mais à Narnia, plus de 1 000 années se sont écoulées. L’Âge d’Or du royaume est depuis longtemps révolu, et ce n’est plus maintenant qu’une légende. L",
+   "genres": [
+    "Aventure",
+    "Familial",
+    "Fantastique"
+   ],
+   "releaseInfo": "2008",
+   "imdbRating": "6.5"
+  },
+  {
+   "id": "tt9243804",
+   "type": "movie",
+   "name": "The Green Knight",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/omVZ8m4aQAbkk2vHyTlkeBZUc7A.jpg",
+   "description": "À travers cette aventure fantastique et épique basée sur la légende arthurienne intemporelle, The Green Knight raconte l'histoire de Sir Gawain, le neveu téméraire et têtu du roi Arthur, qui se lance dans une quête audacieuse pour affronter le chevalier vert éponyme, un gigantesque étranger à la pea",
+   "genres": [
+    "Aventure",
+    "Drame",
+    "Fantastique"
+   ],
+   "releaseInfo": "2021",
+   "imdbRating": "6.5"
+  },
+  {
+   "id": "tt1014759",
+   "type": "movie",
+   "name": "Alice au Pays des Merveilles",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w2FB25izMMWDoVckloSej0ctDJ2.jpg",
+   "description": "Alice, désormais âgée de 19 ans, retourne dans le monde fantastique qu'elle a découvert quand elle était enfant. Elle y retrouve ses amis le Lapin Blanc, Bonnet Blanc et Blanc Bonnet, le Loir, la Chenille, le Chat du Cheshire et, bien entendu, le Chapelier Fou. Alice s'embarque alors dans une aventu",
+   "genres": [
+    "Familial",
+    "Fantastique",
+    "Aventure"
+   ],
+   "releaseInfo": "2010",
+   "imdbRating": "6.4"
+  },
+  {
+   "id": "tt0980970",
+   "type": "movie",
+   "name": "Le Monde de Narnia : L'Odyssée du passeur d'aurore",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OawbDQ3W1Q6WtJWiNFyZebBY6E.jpg",
+   "description": "Happés à l’intérieur d’un intriguant tableau, Edmund et Lucy Pevensie, ainsi que leur détestable cousin Eustache, se retrouvent subitement projetés dans le royaume de Narnia, à bord d’un navire majestueux : le Passeur d’Aurore. Rejoignant Caspian, devenu roi, et l’intrépide souris guerrière Ripitchi",
+   "genres": [
+    "Aventure",
+    "Familial",
+    "Fantastique"
+   ],
+   "releaseInfo": "2010",
+   "imdbRating": "6.3"
+  },
+  {
+   "id": "tt4123432",
+   "type": "movie",
+   "name": "Les Animaux fantastiques : Les Secrets de Dumbledore",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzvSMS4MqBg2ThgGOS2YkNkoebf.jpg",
+   "description": "Le professeur Albus Dumbledore sait que le puissant mage noir Gellert Grindelwald cherche à prendre le contrôle du monde des sorciers. Incapable de l’empêcher d’agir seul, il sollicite le magizoologiste Norbert Dragonneau pour qu’il réunisse des sorciers, des sorcières et un boulanger moldu au sein ",
+   "genres": [
+    "Fantastique",
+    "Aventure"
+   ],
+   "releaseInfo": "2022",
+   "imdbRating": "6.2"
+  },
+  {
+   "id": "tt0385752",
+   "type": "movie",
+   "name": "À la croisée des mondes : La Boussole d'or",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tAcPIX5GQy8XAhG2nqTQHmBLksI.jpg",
+   "description": "Lyra, 12 ans, est une orpheline rebelle qui vit à Jordan College, un établissement de l'Université d'Oxford, dans un monde parallèle qui ressemble au nôtre mais qui a évolué de façon un peu différente. Elle a pour compagnon Pantalaimon, son dæmon, un être capable de prendre de nombreuses formes anim",
+   "genres": [
+    "Aventure",
+    "Fantastique"
+   ],
+   "releaseInfo": "2007",
+   "imdbRating": "6.1"
   }
  ]
 }

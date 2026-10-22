@@ -1,20 +1,48 @@
 {
  "metas": [
   {
-   "id": "tt5607976",
+   "id": "tt6905542",
    "type": "series",
-   "name": "His Dark Materials : À la croisée des mondes",
-   "poster": "https://artworks.thetvdb.com/banners/v4/series/360295/posters/63a31014659b7.jpg",
-   "description": "Courageuse et futée, Lyra se retrouve embarquée dans une folle aventure dans les contrées du Nord, à la recherche de son meilleur ami disparu. Pourquoi cette jeune fille orpheline, élevée dans l'atmosphère austère et confinée du prestigieux Jordan College, fait-elle l'objet de tant d'attentions ? Se",
+   "name": "Dark Crystal : Le temps de la résistance",
+   "poster": "https://artworks.thetvdb.com/banners/posters/5d1043294c237.jpg",
+   "description": "Dans ce préquel du classique fantastique, trois jeunes Gelfling ayant découvert un secret terrifiant inspirent une rébellion contre le cruel empereur.",
    "genres": [
     "Science Fiction",
     "Fantasy",
     "Family",
     "Drama",
+    "Adventure"
+   ],
+   "releaseInfo": "2019",
+   "imdbRating": "8.4"
+  },
+  {
+   "id": "tt1869454",
+   "type": "series",
+   "name": "Good Omens",
+   "poster": "https://artworks.thetvdb.com/banners/posters/5c65fa5e7fa62.jpg",
+   "description": "L'ange Aziraphale et le démon Rampa après 6 000 ans de vie sur la Terre ne se résignent pas à la venue imminente de l'Apocalypse. Meilleurs ennemis du monde, ils se liguent ensemble contre leurs autorités supérieures et tentent d'influencer le cours apparemment inéluctable des événements en éduquant",
+   "genres": [
+    "Fantasy",
+    "Comedy"
+   ],
+   "releaseInfo": "2019-2026",
+   "imdbRating": "8.0"
+  },
+  {
+   "id": "tt1199099",
+   "type": "series",
+   "name": "Merlin (2008)",
+   "poster": "https://artworks.thetvdb.com/banners/posters/83123-7.jpg",
+   "description": "Dans la mythique cité de Camelot, certaines histoires se racontent comme on le fait aujourd'hui, au XXIème siècle. Entre enchantements et mystères, c'est là qu'un jeune homme nommé Merlin se lie d'amitié avec un certain Arthur...",
+   "genres": [
+    "Fantasy",
+    "Drama",
     "Adventure",
     "Action"
    ],
-   "releaseInfo": "2019-2023"
+   "releaseInfo": "2008-2012",
+   "imdbRating": "7.9"
   },
   {
    "id": "tt5180504",
@@ -29,7 +57,41 @@
     "Action",
     "Mystery"
    ],
-   "releaseInfo": "2019-"
+   "releaseInfo": "2019-",
+   "imdbRating": "7.8"
+  },
+  {
+   "id": "tt5607976",
+   "type": "series",
+   "name": "His Dark Materials : À la croisée des mondes",
+   "poster": "https://artworks.thetvdb.com/banners/v4/series/360295/posters/63a31014659b7.jpg",
+   "description": "Courageuse et futée, Lyra se retrouve embarquée dans une folle aventure dans les contrées du Nord, à la recherche de son meilleur ami disparu. Pourquoi cette jeune fille orpheline, élevée dans l'atmosphère austère et confinée du prestigieux Jordan College, fait-elle l'objet de tant d'attentions ? Se",
+   "genres": [
+    "Science Fiction",
+    "Fantasy",
+    "Family",
+    "Drama",
+    "Adventure",
+    "Action"
+   ],
+   "releaseInfo": "2019-2023",
+   "imdbRating": "7.7"
+  },
+  {
+   "id": "tt0489974",
+   "type": "series",
+   "name": "Carnival Row",
+   "poster": "https://artworks.thetvdb.com/banners/v4/series/365026/posters/63f3d878285a4.jpg",
+   "description": "Dans un monde fantastique à l’époque victorienne, où les créatures mythologiques doivent cohabiter avec les humains, le détective Rycroft Philostrate et une fée réfugiée du nom de Vignette Stonemoss vivent une dangereuse relation au cœur d’une société de plus en plus intolérante.",
+   "genres": [
+    "Fantasy",
+    "Drama",
+    "Crime",
+    "Thriller",
+    "Mystery"
+   ],
+   "releaseInfo": "2019-2023",
+   "imdbRating": "7.6"
   },
   {
    "id": "tt2403776",
@@ -46,19 +108,8 @@
     "Mystery",
     "War"
    ],
-   "releaseInfo": "2021-2023"
-  },
-  {
-   "id": "tt1869454",
-   "type": "series",
-   "name": "Good Omens",
-   "poster": "https://artworks.thetvdb.com/banners/posters/5c65fa5e7fa62.jpg",
-   "description": "L'ange Aziraphale et le démon Rampa après 6 000 ans de vie sur la Terre ne se résignent pas à la venue imminente de l'Apocalypse. Meilleurs ennemis du monde, ils se liguent ensemble contre leurs autorités supérieures et tentent d'influencer le cours apparemment inéluctable des événements en éduquant",
-   "genres": [
-    "Fantasy",
-    "Comedy"
-   ],
-   "releaseInfo": "2019-2026"
+   "releaseInfo": "2021-2023",
+   "imdbRating": "7.5"
   },
   {
    "id": "tt13802576",
@@ -72,7 +123,8 @@
     "Adventure",
     "Thriller"
    ],
-   "releaseInfo": "2023"
+   "releaseInfo": "2023",
+   "imdbRating": "7.4"
   },
   {
    "id": "tt12324366",
@@ -85,51 +137,8 @@
     "Drama",
     "Adventure"
    ],
-   "releaseInfo": "2023-"
-  },
-  {
-   "id": "tt0489974",
-   "type": "series",
-   "name": "Carnival Row",
-   "poster": "https://artworks.thetvdb.com/banners/v4/series/365026/posters/63f3d878285a4.jpg",
-   "description": "Dans un monde fantastique à l’époque victorienne, où les créatures mythologiques doivent cohabiter avec les humains, le détective Rycroft Philostrate et une fée réfugiée du nom de Vignette Stonemoss vivent une dangereuse relation au cœur d’une société de plus en plus intolérante.",
-   "genres": [
-    "Fantasy",
-    "Drama",
-    "Crime",
-    "Thriller",
-    "Mystery"
-   ],
-   "releaseInfo": "2019-2023"
-  },
-  {
-   "id": "tt1199099",
-   "type": "series",
-   "name": "Merlin (2008)",
-   "poster": "https://artworks.thetvdb.com/banners/posters/83123-7.jpg",
-   "description": "Dans la mythique cité de Camelot, certaines histoires se racontent comme on le fait aujourd'hui, au XXIème siècle. Entre enchantements et mystères, c'est là qu'un jeune homme nommé Merlin se lie d'amitié avec un certain Arthur...",
-   "genres": [
-    "Fantasy",
-    "Drama",
-    "Adventure",
-    "Action"
-   ],
-   "releaseInfo": "2008-2012"
-  },
-  {
-   "id": "tt6905542",
-   "type": "series",
-   "name": "Dark Crystal : Le temps de la résistance",
-   "poster": "https://artworks.thetvdb.com/banners/posters/5d1043294c237.jpg",
-   "description": "Dans ce préquel du classique fantastique, trois jeunes Gelfling ayant découvert un secret terrifiant inspirent une rébellion contre le cruel empereur.",
-   "genres": [
-    "Science Fiction",
-    "Fantasy",
-    "Family",
-    "Drama",
-    "Adventure"
-   ],
-   "releaseInfo": "2019"
+   "releaseInfo": "2023-",
+   "imdbRating": "7.0"
   }
  ]
 }

@@ -1,31 +1,20 @@
 {
  "metas": [
   {
-   "id": "tt12306692",
+   "id": "tt0773262",
    "type": "series",
-   "name": "American Horror Stories",
-   "poster": "https://artworks.thetvdb.com/banners/v4/series/382187/posters/64de18943021b.jpg",
-   "description": "La série fera référence à de nombreux faits divers comme les légendes urbaines et les histoires paranormales. Chaque épisode aura une histoire horrifique différente.",
+   "name": "Dexter",
+   "poster": "https://artworks.thetvdb.com/banners/posters/79349-27.jpg",
+   "description": "Brillant expert scientifique du service médico-légal de la police de Miami, Dexter Morgan est spécialisé dans l'analyse de prélèvements sanguins. Mais voilà, Dexter cache un terrible secret : il est également tueur en série. Un serial killer pas comme les autres, avec sa propre vision de la justice.",
    "genres": [
-    "Horror",
-    "Drama",
-    "Thriller"
-   ],
-   "releaseInfo": "2021-"
-  },
-  {
-   "id": "tt31458276",
-   "type": "series",
-   "name": "Grotesquerie",
-   "poster": "https://artworks.thetvdb.com/banners/v4/series/446581/posters/66e325a136e04.jpg",
-   "description": "Dans « Grotesquerie », une série de crimes odieux bouleverse une petite communauté. L'inspectrice Lois Tryon a l'impression que ces crimes ont quelque chose de personnel, comme si quelqu'un ou quelque chose la narguait. Par ailleurs, Lois doit gérer sa relation tendue avec sa fille, l'hospitalisatio",
-   "genres": [
-    "Horror",
     "Drama",
     "Crime",
+    "Suspense",
+    "Thriller",
     "Mystery"
    ],
-   "releaseInfo": "2024"
+   "releaseInfo": "2006-2013",
+   "imdbRating": "8.6"
   },
   {
    "id": "tt6763664",
@@ -39,62 +28,8 @@
     "Thriller",
     "Mystery"
    ],
-   "releaseInfo": "2018-2020"
-  },
-  {
-   "id": "tt10970552",
-   "type": "series",
-   "name": "The Haunting of Bly Manor",
-   "poster": "https://images.metahub.space/poster/small/tt10970552/img",
-   "description": "After an au pair’s tragic death, Henry hires a young American nanny to care for his orphaned niece and nephew who reside at Bly Manor with the chef Owen, groundskeeper Jamie and housekeeper, Mrs. Grose.",
-   "genres": [
-    "Drama",
-    "Horror",
-    "Mystery"
-   ],
-   "releaseInfo": "2020"
-  },
-  {
-   "id": "tt10574558",
-   "type": "series",
-   "name": "Sermons de minuit",
-   "poster": "https://artworks.thetvdb.com/banners/v4/series/367226/posters/65d2814c63e3e.jpg",
-   "description": "L'arrivée d'un jeune prêtre charismatique suscite des miracles et des mystères, et un regain de ferveur religieuse dans une ville mourante qui ne demande qu'à croire.",
-   "genres": [
-    "Mini-Series",
-    "Horror",
-    "Drama",
-    "Suspense",
-    "Mystery"
-   ],
-   "releaseInfo": "2021"
-  },
-  {
-   "id": "tt15567174",
-   "type": "series",
-   "name": "La Chute de la maison Usher",
-   "poster": "https://artworks.thetvdb.com/banners/v4/series/411021/posters/653e93ff21407.jpg",
-   "description": "Pour assurer la pérennité de leur fortune, un frère et une sœur impitoyables fondent une dynastie que menacent les morts mystérieuses de leurs héritiers, un par un.",
-   "genres": [
-    "Mini-Series",
-    "Horror",
-    "Drama",
-    "Suspense"
-   ],
-   "releaseInfo": "2023"
-  },
-  {
-   "id": "tt2628232",
-   "type": "series",
-   "name": "Penny Dreadful",
-   "poster": "https://artworks.thetvdb.com/banners/posters/265766-3.jpg",
-   "description": "Dans le Londres de l'époque Victorienne, Vanessa Ives, une jeune femme puissante aux pouvoirs hypnotiques, allie ses forces à celles d'Ethan, un garçon rebelle et violent aux allures de cowboy, et de Sir Malcolm, un vieil homme riche aux ressources inépuisables. Ensemble, ils combattent un ennemi in",
-   "genres": [
-    "Horror",
-    "Fantasy",
-    "Drama"
-   ],
-   "releaseInfo": "2014-2016"
+   "releaseInfo": "2018-2020",
+   "imdbRating": "8.5"
   },
   {
    "id": "tt2243973",
@@ -109,48 +44,81 @@
     "Thriller",
     "Mystery"
    ],
-   "releaseInfo": "2013-2015"
+   "releaseInfo": "2013-2015",
+   "imdbRating": "8.5"
   },
   {
-   "id": "tt11041332",
+   "id": "tt7908628",
    "type": "series",
-   "name": "Yellowjackets",
-   "poster": "https://artworks.thetvdb.com/banners/v4/series/399731/posters/61a14a3784935.jpg",
-   "description": "Après le crash de leur avion, des lycéennes d’une équipe de football luttent pour leur survie dans une région sauvage du Nord des Etats-Unis. Vingt-cinq ans plus tard, les survivantes se sont reconstruites… enfin presque. Car une question revient sans cesse, que s’est-il passé durant les dix-neuf mo",
+   "name": "What We Do in the Shadows",
+   "poster": "https://artworks.thetvdb.com/banners/posters/5cb37dea7adfe.jpg",
+   "description": "Nandor, combattant de l’Empire Ottoman, Laszlo, le britannique, Nadja, la séductrice et Guillermo, le serviteur, sont des vampires colocataires depuis plus de cent ans dans le quartier de Staten Island. Lorsque le baron Afanas vient leur rappeler qu’ils doivent installer la domination des vampires s",
    "genres": [
     "Horror",
+    "Fantasy",
+    "Comedy"
+   ],
+   "releaseInfo": "2019-2024",
+   "imdbRating": "8.5"
+  },
+  {
+   "id": "tt0460681",
+   "type": "series",
+   "name": "Supernatural",
+   "poster": "https://artworks.thetvdb.com/banners/posters/78901-35.jpg",
+   "description": "Les aventures et le destin des deux frères Winchester sur les traces de leur père, un \"chasseur\", à la poursuite de monstres vivant parmi les humains.\r\n",
+   "genres": [
+    "Horror",
+    "Fantasy",
     "Drama",
     "Thriller",
     "Mystery"
    ],
-   "releaseInfo": "2021-"
+   "releaseInfo": "2005-2020",
+   "imdbRating": "8.4"
   },
   {
-   "id": "tt3960394",
+   "id": "tt1984119",
    "type": "series",
-   "name": "Entretien avec un vampire",
-   "poster": "https://artworks.thetvdb.com/banners/v4/series/405535/posters/6644063729196.jpg",
-   "description": "En 2022, le vampire Louis de Pointe du Lac raconte son histoire au célèbre journaliste Daniel Molloy. En 1910 à La Nouvelle-Orléans, Louis et Lestat forment une famille vampirique à laquelle vient s'ajouter Claudia, la novice adolescente.",
+   "name": "Feud",
+   "poster": "https://artworks.thetvdb.com/banners/posters/656f93b1b71c2.jpg",
+   "description": "Série anthologique qui présente des affrontements épiques célèbres.",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "2017-2024",
+   "imdbRating": "8.3"
+  },
+  {
+   "id": "tt2628232",
+   "type": "series",
+   "name": "Penny Dreadful",
+   "poster": "https://artworks.thetvdb.com/banners/posters/265766-3.jpg",
+   "description": "Dans le Londres de l'époque Victorienne, Vanessa Ives, une jeune femme puissante aux pouvoirs hypnotiques, allie ses forces à celles d'Ethan, un garçon rebelle et violent aux allures de cowboy, et de Sir Malcolm, un vieil homme riche aux ressources inépuisables. Ensemble, ils combattent un ennemi in",
    "genres": [
     "Horror",
     "Fantasy",
     "Drama"
    ],
-   "releaseInfo": "2022-"
+   "releaseInfo": "2014-2016",
+   "imdbRating": "8.2"
   },
   {
-   "id": "tt10875696",
+   "id": "tt2188671",
    "type": "series",
-   "name": "Marianne",
-   "poster": "https://artworks.thetvdb.com/banners/posters/5d6bfe369c514.jpg",
-   "description": "Emma, jeune romancière acerbe, découvre que les personnages monstrueux qu'elle a créés dans sa série de romans horrifiques sont réellement en train de prendre vie...",
+   "name": "Bates Motel",
+   "poster": "https://artworks.thetvdb.com/banners/posters/262414-4.jpg",
+   "description": "Après la mort mystérieuse de son mari, Norma Bates décide de refaire sa vie loin de l'Arizona, dans la petite ville de White Pine Bay dans l'Oregon, et emmène avec elle son fils Norman, âgé de 17 ans. Elle rachète là-bas un vieux motel abandonné depuis de nombreuses années, ainsi que le manoir qui t",
    "genres": [
     "Horror",
     "Drama",
+    "Crime",
+    "Suspense",
     "Thriller",
     "Mystery"
    ],
-   "releaseInfo": "2019"
+   "releaseInfo": "2013-2017",
+   "imdbRating": "8.1"
   },
   {
    "id": "tt2521668",
@@ -166,7 +134,237 @@
     "Thriller",
     "Mystery"
    ],
-   "releaseInfo": "2012-2015"
+   "releaseInfo": "2012-2015",
+   "imdbRating": "8.0"
+  },
+  {
+   "id": "tt15567174",
+   "type": "series",
+   "name": "La Chute de la maison Usher",
+   "poster": "https://artworks.thetvdb.com/banners/v4/series/411021/posters/653e93ff21407.jpg",
+   "description": "Pour assurer la pérennité de leur fortune, un frère et une sœur impitoyables fondent une dynastie que menacent les morts mystérieuses de leurs héritiers, un par un.",
+   "genres": [
+    "Mini-Series",
+    "Horror",
+    "Drama",
+    "Suspense"
+   ],
+   "releaseInfo": "2023",
+   "imdbRating": "7.9"
+  },
+  {
+   "id": "tt0844441",
+   "type": "series",
+   "name": "True Blood",
+   "poster": "https://artworks.thetvdb.com/banners/posters/82283-1.jpg",
+   "description": "Ayant trouvé un substitut pour se nourrir sans tuer, les vampires vivent désormais parmi les humains. Sookie, une serveuse capable de lire dans les esprits, tombe sous le charme de Bill, un mystérieux vampire. Une rencontre qui bouleverse la vie de la jeune femme...",
+   "genres": [
+    "Fantasy",
+    "Drama",
+    "Crime",
+    "Suspense",
+    "Thriller",
+    "Romance",
+    "Mystery"
+   ],
+   "releaseInfo": "2008-2014",
+   "imdbRating": "7.9"
+  },
+  {
+   "id": "tt2708480",
+   "type": "series",
+   "name": "The Terror",
+   "poster": "https://artworks.thetvdb.com/banners/posters/69e91509d7597.jpg",
+   "description": "Une série anthologique à suspense inspirée par d'authentiques événements historiques.",
+   "genres": [
+    "Horror",
+    "Drama",
+    "Adventure",
+    "Suspense",
+    "Thriller",
+    "History"
+   ],
+   "releaseInfo": "2018-",
+   "imdbRating": "7.8"
+  },
+  {
+   "id": "tt10574558",
+   "type": "series",
+   "name": "Sermons de minuit",
+   "poster": "https://artworks.thetvdb.com/banners/v4/series/367226/posters/65d2814c63e3e.jpg",
+   "description": "L'arrivée d'un jeune prêtre charismatique suscite des miracles et des mystères, et un regain de ferveur religieuse dans une ville mourante qui ne demande qu'à croire.",
+   "genres": [
+    "Mini-Series",
+    "Horror",
+    "Drama",
+    "Suspense",
+    "Mystery"
+   ],
+   "releaseInfo": "2021",
+   "imdbRating": "7.7"
+  },
+  {
+   "id": "tt11041332",
+   "type": "series",
+   "name": "Yellowjackets",
+   "poster": "https://artworks.thetvdb.com/banners/v4/series/399731/posters/61a14a3784935.jpg",
+   "description": "Après le crash de leur avion, des lycéennes d’une équipe de football luttent pour leur survie dans une région sauvage du Nord des Etats-Unis. Vingt-cinq ans plus tard, les survivantes se sont reconstruites… enfin presque. Car une question revient sans cesse, que s’est-il passé durant les dix-neuf mo",
+   "genres": [
+    "Horror",
+    "Drama",
+    "Thriller",
+    "Mystery"
+   ],
+   "releaseInfo": "2021-",
+   "imdbRating": "7.7"
+  },
+  {
+   "id": "tt9055008",
+   "type": "series",
+   "name": "Phénomènes",
+   "poster": "https://artworks.thetvdb.com/banners/posters/5d6aa98c09572.jpg",
+   "description": "Une psychologue collabore avec un prêtre en formation et un entrepreneur pour enquêter sur des faits qui semblent d'origine surnaturelle. Ensemble, ils cherchent à savoir si ces événements peuvent être expliqués scientifiquement...",
+   "genres": [
+    "Horror",
+    "Drama",
+    "Crime",
+    "Suspense",
+    "Thriller",
+    "Mystery"
+   ],
+   "releaseInfo": "2019-2024",
+   "imdbRating": "7.7"
+  },
+  {
+   "id": "tt13207736",
+   "type": "series",
+   "name": "Monstre",
+   "poster": "https://artworks.thetvdb.com/banners/v4/series/389492/posters/67060ffc57c3c.jpg",
+   "description": "Série anthologique centrée sur la vie et les crimes de tueurs en série.",
+   "genres": [
+    "Family",
+    "Crime",
+    "Thriller"
+   ],
+   "releaseInfo": "2022-",
+   "imdbRating": "7.7"
+  },
+  {
+   "id": "tt3960394",
+   "type": "series",
+   "name": "Entretien avec un vampire",
+   "poster": "https://artworks.thetvdb.com/banners/v4/series/405535/posters/6644063729196.jpg",
+   "description": "En 2022, le vampire Louis de Pointe du Lac raconte son histoire au célèbre journaliste Daniel Molloy. En 1910 à La Nouvelle-Orléans, Louis et Lestat forment une famille vampirique à laquelle vient s'ajouter Claudia, la novice adolescente.",
+   "genres": [
+    "Horror",
+    "Fantasy",
+    "Drama"
+   ],
+   "releaseInfo": "2022-",
+   "imdbRating": "7.6"
+  },
+  {
+   "id": "tt9064858",
+   "type": "series",
+   "name": "Eux",
+   "poster": "https://artworks.thetvdb.com/banners/v4/series/372974/posters/6048027695941.jpg",
+   "description": "Série horrifique anthologique traitant du racisme à travers une nouvelle histoire chaque saison.",
+   "genres": [
+    "Horror",
+    "Drama",
+    "Thriller"
+   ],
+   "releaseInfo": "2021-2024",
+   "imdbRating": "7.5"
+  },
+  {
+   "id": "tt10970552",
+   "type": "series",
+   "name": "The Haunting of Bly Manor",
+   "poster": "https://images.metahub.space/poster/small/tt10970552/img",
+   "description": "After an au pair’s tragic death, Henry hires a young American nanny to care for his orphaned niece and nephew who reside at Bly Manor with the chef Owen, groundskeeper Jamie and housekeeper, Mrs. Grose.",
+   "genres": [
+    "Drama",
+    "Horror",
+    "Mystery"
+   ],
+   "releaseInfo": "2020",
+   "imdbRating": "7.4"
+  },
+  {
+   "id": "tt8068860",
+   "type": "series",
+   "name": "Servant",
+   "poster": "https://artworks.thetvdb.com/banners/v4/series/368126/posters/638e8961bbb47.jpg",
+   "description": "Servant raconte l'histoire d'un couple de Philadelphie frappé par une terrible tragédie qui menace leur mariage et laisse place à une force mystérieuse au sein de leur foyer.",
+   "genres": [
+    "Horror",
+    "Drama",
+    "Thriller",
+    "Mystery"
+   ],
+   "releaseInfo": "2019-2023",
+   "imdbRating": "7.4"
+  },
+  {
+   "id": "tt10875696",
+   "type": "series",
+   "name": "Marianne",
+   "poster": "https://artworks.thetvdb.com/banners/posters/5d6bfe369c514.jpg",
+   "description": "Emma, jeune romancière acerbe, découvre que les personnages monstrueux qu'elle a créés dans sa série de romans horrifiques sont réellement en train de prendre vie...",
+   "genres": [
+    "Horror",
+    "Drama",
+    "Thriller",
+    "Mystery"
+   ],
+   "releaseInfo": "2019",
+   "imdbRating": "7.3"
+  },
+  {
+   "id": "tt13365348",
+   "type": "series",
+   "name": "Archive 81",
+   "poster": "https://artworks.thetvdb.com/banners/v4/series/390936/posters/61b915220ba4a.jpg",
+   "description": "Après avoir accepté de restaurer de vieilles cassettes vidéo, un archiviste se retrouve au cœur d'un mystère impliquant la réalisatrice disparue et une secte démoniaque.",
+   "genres": [
+    "Science Fiction",
+    "Horror",
+    "Drama",
+    "Thriller",
+    "Mystery"
+   ],
+   "releaseInfo": "2022",
+   "imdbRating": "7.3"
+  },
+  {
+   "id": "tt7423538",
+   "type": "series",
+   "name": "Ratched",
+   "poster": "https://artworks.thetvdb.com/banners/series/364870/posters/5f5de93ec813e.jpg",
+   "description": "En 1947, une infirmière nommée Mildred Ratched, qui semble tout à fait normale, est sur le point de devenir un véritable monstre. Elle va être la cause de plusieurs meurtres au sein du système hospitalier américain.",
+   "genres": [
+    "Drama",
+    "Crime",
+    "Thriller",
+    "Mystery"
+   ],
+   "releaseInfo": "2020",
+   "imdbRating": "7.2"
+  },
+  {
+   "id": "tt8388390",
+   "type": "series",
+   "name": "Chucky",
+   "poster": "https://artworks.thetvdb.com/banners/v4/series/349415/posters/613ac97f9cf74.jpg",
+   "description": "Une ville américaine idyllique est plongée dans le chaos après la découverte d'une poupée vintage \"Good Guy\" dans un vide-grenier de banlieue. Très vite, tout le monde doit faire face à une série de meurtres qui commencent à exposer les secrets cachés de la ville. Pendant ce temps, des amis et des e",
+   "genres": [
+    "Horror",
+    "Suspense",
+    "Thriller"
+   ],
+   "releaseInfo": "2021-2024",
+   "imdbRating": "7.2"
   },
   {
    "id": "tt4820370",
@@ -184,23 +382,8 @@
     "Thriller",
     "Mystery"
    ],
-   "releaseInfo": "2016-2018"
-  },
-  {
-   "id": "tt2708480",
-   "type": "series",
-   "name": "The Terror",
-   "poster": "https://artworks.thetvdb.com/banners/posters/69e91509d7597.jpg",
-   "description": "Une série anthologique à suspense inspirée par d'authentiques événements historiques.",
-   "genres": [
-    "Horror",
-    "Drama",
-    "Adventure",
-    "Suspense",
-    "Thriller",
-    "History"
-   ],
-   "releaseInfo": "2018-"
+   "releaseInfo": "2016-2018",
+   "imdbRating": "7.1"
   },
   {
    "id": "tt6905686",
@@ -216,51 +399,8 @@
     "Thriller",
     "Mystery"
    ],
-   "releaseInfo": "2020"
-  },
-  {
-   "id": "tt9055008",
-   "type": "series",
-   "name": "Phénomènes",
-   "poster": "https://artworks.thetvdb.com/banners/posters/5d6aa98c09572.jpg",
-   "description": "Une psychologue collabore avec un prêtre en formation et un entrepreneur pour enquêter sur des faits qui semblent d'origine surnaturelle. Ensemble, ils cherchent à savoir si ces événements peuvent être expliqués scientifiquement...",
-   "genres": [
-    "Horror",
-    "Drama",
-    "Crime",
-    "Suspense",
-    "Thriller",
-    "Mystery"
-   ],
-   "releaseInfo": "2019-2024"
-  },
-  {
-   "id": "tt13365348",
-   "type": "series",
-   "name": "Archive 81",
-   "poster": "https://artworks.thetvdb.com/banners/v4/series/390936/posters/61b915220ba4a.jpg",
-   "description": "Après avoir accepté de restaurer de vieilles cassettes vidéo, un archiviste se retrouve au cœur d'un mystère impliquant la réalisatrice disparue et une secte démoniaque.",
-   "genres": [
-    "Science Fiction",
-    "Horror",
-    "Drama",
-    "Thriller",
-    "Mystery"
-   ],
-   "releaseInfo": "2022"
-  },
-  {
-   "id": "tt13207736",
-   "type": "series",
-   "name": "Monstre",
-   "poster": "https://artworks.thetvdb.com/banners/v4/series/389492/posters/67060ffc57c3c.jpg",
-   "description": "Série anthologique centrée sur la vie et les crimes de tueurs en série.",
-   "genres": [
-    "Family",
-    "Crime",
-    "Thriller"
-   ],
-   "releaseInfo": "2022-"
+   "releaseInfo": "2020",
+   "imdbRating": "7.1"
   },
   {
    "id": "tt4145384",
@@ -273,162 +413,8 @@
     "Comedy",
     "Mystery"
    ],
-   "releaseInfo": "2015-2016"
-  },
-  {
-   "id": "tt7423538",
-   "type": "series",
-   "name": "Ratched",
-   "poster": "https://artworks.thetvdb.com/banners/series/364870/posters/5f5de93ec813e.jpg",
-   "description": "En 1947, une infirmière nommée Mildred Ratched, qui semble tout à fait normale, est sur le point de devenir un véritable monstre. Elle va être la cause de plusieurs meurtres au sein du système hospitalier américain.",
-   "genres": [
-    "Drama",
-    "Crime",
-    "Thriller",
-    "Mystery"
-   ],
-   "releaseInfo": "2020"
-  },
-  {
-   "id": "tt1984119",
-   "type": "series",
-   "name": "Feud",
-   "poster": "https://artworks.thetvdb.com/banners/posters/656f93b1b71c2.jpg",
-   "description": "Série anthologique qui présente des affrontements épiques célèbres.",
-   "genres": [
-    "Drama"
-   ],
-   "releaseInfo": "2017-2024"
-  },
-  {
-   "id": "tt2188671",
-   "type": "series",
-   "name": "Bates Motel",
-   "poster": "https://artworks.thetvdb.com/banners/posters/262414-4.jpg",
-   "description": "Après la mort mystérieuse de son mari, Norma Bates décide de refaire sa vie loin de l'Arizona, dans la petite ville de White Pine Bay dans l'Oregon, et emmène avec elle son fils Norman, âgé de 17 ans. Elle rachète là-bas un vieux motel abandonné depuis de nombreuses années, ainsi que le manoir qui t",
-   "genres": [
-    "Horror",
-    "Drama",
-    "Crime",
-    "Suspense",
-    "Thriller",
-    "Mystery"
-   ],
-   "releaseInfo": "2013-2017"
-  },
-  {
-   "id": "tt8388390",
-   "type": "series",
-   "name": "Chucky",
-   "poster": "https://artworks.thetvdb.com/banners/v4/series/349415/posters/613ac97f9cf74.jpg",
-   "description": "Une ville américaine idyllique est plongée dans le chaos après la découverte d'une poupée vintage \"Good Guy\" dans un vide-grenier de banlieue. Très vite, tout le monde doit faire face à une série de meurtres qui commencent à exposer les secrets cachés de la ville. Pendant ce temps, des amis et des e",
-   "genres": [
-    "Horror",
-    "Suspense",
-    "Thriller"
-   ],
-   "releaseInfo": "2021-2024"
-  },
-  {
-   "id": "tt7908628",
-   "type": "series",
-   "name": "What We Do in the Shadows",
-   "poster": "https://artworks.thetvdb.com/banners/posters/5cb37dea7adfe.jpg",
-   "description": "Nandor, combattant de l’Empire Ottoman, Laszlo, le britannique, Nadja, la séductrice et Guillermo, le serviteur, sont des vampires colocataires depuis plus de cent ans dans le quartier de Staten Island. Lorsque le baron Afanas vient leur rappeler qu’ils doivent installer la domination des vampires s",
-   "genres": [
-    "Horror",
-    "Fantasy",
-    "Comedy"
-   ],
-   "releaseInfo": "2019-2024"
-  },
-  {
-   "id": "tt3743822",
-   "type": "series",
-   "name": "Fear the Walking Dead",
-   "poster": "https://artworks.thetvdb.com/banners/posters/290853-8.jpg",
-   "description": "L'histoire se déroule au tout début de l'épidémie relatée dans la série mère The Walking Dead et se passe dans la ville de Los Angeles, et non à Atlanta. Madison est conseillère d’orientation dans un lycée de Los Angeles. Depuis la mort de son mari, elle élève seule ses deux enfants : Alicia, excell",
-   "genres": [
-    "Science Fiction",
-    "Horror",
-    "Drama",
-    "Thriller"
-   ],
-   "releaseInfo": "2015-2023"
-  },
-  {
-   "id": "tt0773262",
-   "type": "series",
-   "name": "Dexter",
-   "poster": "https://artworks.thetvdb.com/banners/posters/79349-27.jpg",
-   "description": "Brillant expert scientifique du service médico-légal de la police de Miami, Dexter Morgan est spécialisé dans l'analyse de prélèvements sanguins. Mais voilà, Dexter cache un terrible secret : il est également tueur en série. Un serial killer pas comme les autres, avec sa propre vision de la justice.",
-   "genres": [
-    "Drama",
-    "Crime",
-    "Suspense",
-    "Thriller",
-    "Mystery"
-   ],
-   "releaseInfo": "2006-2013"
-  },
-  {
-   "id": "tt0844441",
-   "type": "series",
-   "name": "True Blood",
-   "poster": "https://artworks.thetvdb.com/banners/posters/82283-1.jpg",
-   "description": "Ayant trouvé un substitut pour se nourrir sans tuer, les vampires vivent désormais parmi les humains. Sookie, une serveuse capable de lire dans les esprits, tombe sous le charme de Bill, un mystérieux vampire. Une rencontre qui bouleverse la vie de la jeune femme...",
-   "genres": [
-    "Fantasy",
-    "Drama",
-    "Crime",
-    "Suspense",
-    "Thriller",
-    "Romance",
-    "Mystery"
-   ],
-   "releaseInfo": "2008-2014"
-  },
-  {
-   "id": "tt0460681",
-   "type": "series",
-   "name": "Supernatural",
-   "poster": "https://artworks.thetvdb.com/banners/posters/78901-35.jpg",
-   "description": "Les aventures et le destin des deux frères Winchester sur les traces de leur père, un \"chasseur\", à la poursuite de monstres vivant parmi les humains.\r\n",
-   "genres": [
-    "Horror",
-    "Fantasy",
-    "Drama",
-    "Thriller",
-    "Mystery"
-   ],
-   "releaseInfo": "2005-2020"
-  },
-  {
-   "id": "tt9064858",
-   "type": "series",
-   "name": "Eux",
-   "poster": "https://artworks.thetvdb.com/banners/v4/series/372974/posters/6048027695941.jpg",
-   "description": "Série horrifique anthologique traitant du racisme à travers une nouvelle histoire chaque saison.",
-   "genres": [
-    "Horror",
-    "Drama",
-    "Thriller"
-   ],
-   "releaseInfo": "2021-2024"
-  },
-  {
-   "id": "tt8068860",
-   "type": "series",
-   "name": "Servant",
-   "poster": "https://artworks.thetvdb.com/banners/v4/series/368126/posters/638e8961bbb47.jpg",
-   "description": "Servant raconte l'histoire d'un couple de Philadelphie frappé par une terrible tragédie qui menace leur mariage et laisse place à une force mystérieuse au sein de leur foyer.",
-   "genres": [
-    "Horror",
-    "Drama",
-    "Thriller",
-    "Mystery"
-   ],
-   "releaseInfo": "2019-2023"
+   "releaseInfo": "2015-2016",
+   "imdbRating": "7.1"
   },
   {
    "id": "tt11343600",
@@ -443,7 +429,52 @@
     "Thriller",
     "Mystery"
    ],
-   "releaseInfo": "2021"
+   "releaseInfo": "2021",
+   "imdbRating": "7.1"
+  },
+  {
+   "id": "tt3743822",
+   "type": "series",
+   "name": "Fear the Walking Dead",
+   "poster": "https://artworks.thetvdb.com/banners/posters/290853-8.jpg",
+   "description": "L'histoire se déroule au tout début de l'épidémie relatée dans la série mère The Walking Dead et se passe dans la ville de Los Angeles, et non à Atlanta. Madison est conseillère d’orientation dans un lycée de Los Angeles. Depuis la mort de son mari, elle élève seule ses deux enfants : Alicia, excell",
+   "genres": [
+    "Science Fiction",
+    "Horror",
+    "Drama",
+    "Thriller"
+   ],
+   "releaseInfo": "2015-2023",
+   "imdbRating": "6.7"
+  },
+  {
+   "id": "tt12306692",
+   "type": "series",
+   "name": "American Horror Stories",
+   "poster": "https://artworks.thetvdb.com/banners/v4/series/382187/posters/64de18943021b.jpg",
+   "description": "La série fera référence à de nombreux faits divers comme les légendes urbaines et les histoires paranormales. Chaque épisode aura une histoire horrifique différente.",
+   "genres": [
+    "Horror",
+    "Drama",
+    "Thriller"
+   ],
+   "releaseInfo": "2021-",
+   "imdbRating": "6.3"
+  },
+  {
+   "id": "tt31458276",
+   "type": "series",
+   "name": "Grotesquerie",
+   "poster": "https://artworks.thetvdb.com/banners/v4/series/446581/posters/66e325a136e04.jpg",
+   "description": "Dans « Grotesquerie », une série de crimes odieux bouleverse une petite communauté. L'inspectrice Lois Tryon a l'impression que ces crimes ont quelque chose de personnel, comme si quelqu'un ou quelque chose la narguait. Par ailleurs, Lois doit gérer sa relation tendue avec sa fille, l'hospitalisatio",
+   "genres": [
+    "Horror",
+    "Drama",
+    "Crime",
+    "Mystery"
+   ],
+   "releaseInfo": "2024",
+   "imdbRating": "6.1"
   }
  ]
 }

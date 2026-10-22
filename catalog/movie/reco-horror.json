@@ -1,29 +1,17 @@
 {
  "metas": [
   {
-   "id": "tt1457767",
+   "id": "tt0081505",
    "type": "movie",
-   "name": "Conjuring : Les Dossiers Warren",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vOnTvcSsxdJWL9xgauljHHmFSN4.jpg",
-   "description": "Avant Amityville, il y avait Harrisville… Conjuring : Les dossiers Warren, raconte l'histoire horrible, mais vraie, d'Ed et Lorraine Warren, enquêteurs paranormaux réputés dans le monde entier, venus en aide à une famille terrorisée par une présence inquiétante dans leur ferme isolée… Contraints d'a",
+   "name": "Shining",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cnniZQGtjK8kh2tsjih4GtkX6bl.jpg",
+   "description": "Jack Torrance, gardien d’un hôtel fermé l’hiver, sa femme et son fils Danny s’apprêtent à vivre de longs mois de solitude. Danny, qui possède un don de médium, le «Shining», est effrayé à l’idée d’habiter ce lieu, théâtre marqué par de terribles événements passés…",
    "genres": [
     "Horreur",
     "Thriller"
    ],
-   "releaseInfo": "2013"
-  },
-  {
-   "id": "tt7784604",
-   "type": "movie",
-   "name": "Hérédité",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Bz0u7xEyOUnGi4ov3rZKqKYCuH.jpg",
-   "description": "Quand Ellen, la matriarche de la famille Graham, meurt, sa fille revient vivre dans la maison avec sa famille. Ils vont alors découvrir le terrifiant secret de leur ancêtre...",
-   "genres": [
-    "Horreur",
-    "Mystère",
-    "Thriller"
-   ],
-   "releaseInfo": "2018"
+   "releaseInfo": "1980",
+   "imdbRating": "8.4"
   },
   {
    "id": "tt5052448",
@@ -36,7 +24,8 @@
     "Thriller",
     "Horreur"
    ],
-   "releaseInfo": "2017"
+   "releaseInfo": "2017",
+   "imdbRating": "7.8"
   },
   {
    "id": "tt0230600",
@@ -49,19 +38,21 @@
     "Mystère",
     "Thriller"
    ],
-   "releaseInfo": "2001"
+   "releaseInfo": "2001",
+   "imdbRating": "7.6"
   },
   {
-   "id": "tt3235888",
+   "id": "tt1457767",
    "type": "movie",
-   "name": "It Follows",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jh8bol1N8COAGSj4ksrcUNo8xxc.jpg",
-   "description": "Une jeune femme est poursuivie par une force surnaturelle inconnue, après une relation sexuelle.",
+   "name": "Conjuring : Les Dossiers Warren",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vOnTvcSsxdJWL9xgauljHHmFSN4.jpg",
+   "description": "Avant Amityville, il y avait Harrisville… Conjuring : Les dossiers Warren, raconte l'histoire horrible, mais vraie, d'Ed et Lorraine Warren, enquêteurs paranormaux réputés dans le monde entier, venus en aide à une famille terrorisée par une présence inquiétante dans leur ferme isolée… Contraints d'a",
    "genres": [
     "Horreur",
-    "Mystère"
+    "Thriller"
    ],
-   "releaseInfo": "2015"
+   "releaseInfo": "2013",
+   "imdbRating": "7.5"
   },
   {
    "id": "tt6644200",
@@ -74,266 +65,8 @@
     "Drame",
     "Science-Fiction"
    ],
-   "releaseInfo": "2018"
-  },
-  {
-   "id": "tt10638522",
-   "type": "movie",
-   "name": "La Main",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yoZmZOIk35ZuH0WJoakB81ypHUH.jpg",
-   "description": "Lorsqu'un groupe d'amis découvre comment conjurer les esprits à l'aide d'une mystérieuse main hantée, ils deviennent accros à ce nouveau frisson, et l’expérience fait le tour des réseaux sociaux. Une seule règle à respecter : ils ne doivent pas tenir la main plus de 90 secondes. Lorsque l’un d’entre",
-   "genres": [
-    "Horreur"
-   ],
-   "releaseInfo": "2023"
-  },
-  {
-   "id": "tt15474916",
-   "type": "movie",
-   "name": "Smile",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3kbtoJw6ZN0UUQhSuiRbAatr2kV.jpg",
-   "description": "Après avoir assisté à un incident traumatisant impliquant un patient, le Dr Rose Cotter se met à vivre des événements effrayants qu'elle ne peut expliquer. Alors qu'une terreur écrasante s'empare de sa vie, Rose doit affronter son passé afin de survivre et d'échapper à sa nouvelle réalité terrifiant",
-   "genres": [
-    "Horreur",
-    "Mystère"
-   ],
-   "releaseInfo": "2022"
-  },
-  {
-   "id": "tt15791034",
-   "type": "movie",
-   "name": "Barbare",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJS3o7TgR0pvdtD045kQJQpHXMd.jpg",
-   "description": "Une jeune femme se rend à Détroit pour un entretien d'embauche, loue une maison, le temps de son séjour. Mais lorsqu'elle arrive tard dans la nuit, elle découvre que la demeure est occupée par deux personnes et qu'un homme étrange y réside déjà... N'ayant pas d'autre choix, elle décide de passer la ",
-   "genres": [
-    "Horreur",
-    "Mystère",
-    "Thriller"
-   ],
-   "releaseInfo": "2022"
-  },
-  {
-   "id": "tt2321549",
-   "type": "movie",
-   "name": "Mister Babadook",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wg2RSUyvBsKjjZhEoyePkEiOrUZ.jpg",
-   "description": "Depuis la mort brutale de son mari, Amelia lutte pour ramener à la raison son fils de 6 ans, Samuel, devenu complètement incontrôlable et qu'elle n'arrive pas à aimer. Quand un livre de contes intitulé « Mister Babadook » se retrouve mystérieusement dans leur maison, Samuel est convaincu que le « Ba",
-   "genres": [
-    "Drame",
-    "Horreur"
-   ],
-   "releaseInfo": "2014"
-  },
-  {
-   "id": "tt1591095",
-   "type": "movie",
-   "name": "Insidious",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmyqYYJTMtCBlUNr0JAp5R59X8H.jpg",
-   "description": "Alors qu'un jeune couple s'installe dans sa nouvelle maison, l'aîné de leurs enfants tombe dans un coma inexpliqué. Peu après, des phénomènes paranormaux jamais vus viennent hanter leurs nuits...",
-   "genres": [
-    "Horreur",
-    "Thriller"
-   ],
-   "releaseInfo": "2011"
-  },
-  {
-   "id": "tt1922777",
-   "type": "movie",
-   "name": "Sinister",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qKXxPnsnVbtxFSwhxvKGZTUd5mm.jpg",
-   "description": "Ellison est un auteur de romans policiers inspirés de faits réels. Dans l’espoir d’écrire un nouveau livre à succès, il emménage avec sa famille dans une maison où les anciens propriétaires ont été retrouvés inexplicablement pendus. Ellison y découvre dans le grenier des bobines 8mm contenant les im",
-   "genres": [
-    "Horreur",
-    "Thriller",
-    "Mystère"
-   ],
-   "releaseInfo": "2012"
-  },
-  {
-   "id": "tt1396484",
-   "type": "movie",
-   "name": "Ça",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3SUz0F0I2Bodcj9Ev2pYSWnE9zp.jpg",
-   "description": "À Derry, dans le Maine, aux États-Unis, 7 gamins, ayant du mal à s’intégrer, se sont regroupés au sein du Club des Ratés. Rejetés par leurs camarades, ils sont les cibles favorites des gros durs de l’école. Ils ont aussi en commun d’avoir éprouvé leur plus grande terreur face à un terrible prédateur",
-   "genres": [
-    "Horreur",
-    "Thriller",
-    "Drame"
-   ],
-   "releaseInfo": "2017"
-  },
-  {
-   "id": "tt2554274",
-   "type": "movie",
-   "name": "Crimson Peak",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sTfk9qcg4YE1Svl0854bxnSl3Mx.jpg",
-   "description": "Au début du siècle dernier, Edith Cushing, une jeune romancière en herbe, vit avec son père Carter Cushing à Buffalo, dans l’État de New York. La jeune femme est hantée, au sens propre, par la mort de sa mère. Elle possède le don de communiquer avec les âmes des défunts et reçoit un étrange message ",
-   "genres": [
-    "Horreur",
-    "Romance"
-   ],
-   "releaseInfo": "2015"
-  },
-  {
-   "id": "tt0464141",
-   "type": "movie",
-   "name": "L'Orphelinat",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Zig1ATMyD4FPzPW4DfDNt9HrLU.jpg",
-   "description": "Laura a passé son enfance dans un orphelinat entourée d'autres enfants qu'elle aimait comme ses frères et sœurs. Adulte, elle retourne sur les lieux avec son mari et son fils de sept ans, Simon, avec l'intention de restaurer la vieille maison. La demeure réveille l'imagination de Simon, qui commence",
-   "genres": [
-    "Horreur",
-    "Drame",
-    "Thriller"
-   ],
-   "releaseInfo": "2007"
-  },
-  {
-   "id": "tt8772262",
-   "type": "movie",
-   "name": "Midsommar",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/17pvY55Zr60niVovNvgt72mwvES.jpg",
-   "description": "Dani et Christian sont sur le point de se séparer quand la famille de Dani est touchée par une tragédie. Attristé par le deuil de la jeune femme, Christian ne peut se résoudre à la laisser seule et l’emmène avec lui et ses amis à un festival estival qui n’a lieu que tous les 90 ans et se déroule dan",
-   "genres": [
-    "Horreur",
-    "Drame",
-    "Mystère"
-   ],
-   "releaseInfo": "2019"
-  },
-  {
-   "id": "tt6857112",
-   "type": "movie",
-   "name": "Us",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5l4UPVn98JCL4oeIpDRHf6M5n3y.jpg",
-   "description": "Des parents emmènent leurs enfants dans leur maison secondaire près d'une plage afin de se détendre et de se déconnecter. Des amis les rejoignent. Au fur et à mesure que la nuit arrive, la sérénité se transforme en tension. Lorsque des invités — qui n'étaient pas prévus — se joignent au groupe, l'ag",
-   "genres": [
-    "Thriller",
-    "Horreur"
-   ],
-   "releaseInfo": "2019"
-  },
-  {
-   "id": "tt10954984",
-   "type": "movie",
-   "name": "Nope",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1z84OMbtzmFWsiQWyonoPqWY2Z.jpg",
-   "description": "Dans une ferme reculée en Californie, Otis « O.J. » Haywood et sa sœur travaillent ensemble dans leur écurie pour un réalisateur respecté. Mais, après la mort soudaine et étrange de leur père, tué par un objet tombé du ciel, le duo est aidé par Angel, employé dans une société de caméras de surveilla",
-   "genres": [
-    "Horreur",
-    "Science-Fiction",
-    "Thriller"
-   ],
-   "releaseInfo": "2022"
-  },
-  {
-   "id": "tt4263482",
-   "type": "movie",
-   "name": "The Witch",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cO6EPLw3YfC700TS4JfUaRTGXaZ.jpg",
-   "description": "1630, en Nouvelle-Angleterre. William et Katherine, un couple dévot, s’établit à la limite de la civilisation, menant une vie pieuse avec leurs cinq enfants et cultivant leur lopin de terre au milieu d’une étendue encore sauvage. La mystérieuse disparition de leur nouveau-né et la perte soudaine de ",
-   "genres": [
-    "Horreur",
-    "Fantastique",
-    "Mystère"
-   ],
-   "releaseInfo": "2016"
-  },
-  {
-   "id": "tt0117571",
-   "type": "movie",
-   "name": "Scream",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9LfX3IBeByGdFkmkmNztKBr4nYv.jpg",
-   "description": "Casey Becker, une belle adolescente, est seule dans la maison familiale. Elle s'apprête à regarder un film d'horreur, mais le téléphone sonne. Au bout du fil, un serial killer la malmène, et la force à jouer à un jeu terrible : si elle répond mal à ses questions portant sur les films d'horreur, celu",
-   "genres": [
-    "Crime",
-    "Horreur",
-    "Mystère"
-   ],
-   "releaseInfo": "1996"
-  },
-  {
-   "id": "tt0081505",
-   "type": "movie",
-   "name": "Shining",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cnniZQGtjK8kh2tsjih4GtkX6bl.jpg",
-   "description": "Jack Torrance, gardien d’un hôtel fermé l’hiver, sa femme et son fils Danny s’apprêtent à vivre de longs mois de solitude. Danny, qui possède un don de médium, le «Shining», est effrayé à l’idée d’habiter ce lieu, théâtre marqué par de terribles événements passés…",
-   "genres": [
-    "Horreur",
-    "Thriller"
-   ],
-   "releaseInfo": "1980"
-  },
-  {
-   "id": "tt4954522",
-   "type": "movie",
-   "name": "Grave",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rezrNBKn6xFTOy5uz0zKV2QQD62.jpg",
-   "description": "Dans la famille de Justine tout le monde est vétérinaire et végétarien. À 16 ans, elle est une adolescente surdouée sur le point d’intégrer l’école véto où sa sœur ainée est également élève. Mais, à peine installés, le bizutage commence pour les premières années. On force Justine à manger de la vian",
-   "genres": [
-    "Horreur",
-    "Drame"
-   ],
-   "releaseInfo": "2017"
-  },
-  {
-   "id": "tt13560574",
-   "type": "movie",
-   "name": "X",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ep2C0shFTkxPUGLBvsgODWycwU7.jpg",
-   "description": "Fin des années 70, une équipe de tournage investit une maison isolée du fin fond du Texas pour y réaliser un film X. À la tombée de la nuit, les propriétaires des lieux surprennent les cinéastes amateurs en plein acte. Le tournage vire brutalement au cauchemar.",
-   "genres": [
-    "Horreur"
-   ],
-   "releaseInfo": "2022"
-  },
-  {
-   "id": "tt18925334",
-   "type": "movie",
-   "name": "Pearl",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pe6W1l0MSFUjZYCH3psEkJBXVav.jpg",
-   "description": "Piégée dans la ferme isolée de sa famille, Pearl doit s'occuper de son père malade sous le regard autoritaire de sa mère dévote. Désireuse de mener une vie glamour comme elle l'a vu dans les films, Pearl voit ses ambitions limitées... ce qu'elle n'apprécie pas du tout !",
-   "genres": [
-    "Horreur",
-    "Drame"
-   ],
-   "releaseInfo": "2022"
-  },
-  {
-   "id": "tt23468450",
-   "type": "movie",
-   "name": "Longlegs",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ncTqrUeLNZee3WtKSX5lJBZDkUf.jpg",
-   "description": "L'agent du FBI Lee Harker, une nouvelle recrue talentueuse, est affectée sur le cas irrésolu d'un tueur en série insaisissable. L’enquête, aux frontières de l’occulte, se complexifie encore lorsqu’elle se découvre un lien personnel avec le tueur impitoyable qu’elle doit arrêter avant qu'il ne prenne",
-   "genres": [
-    "Crime",
-    "Horreur",
-    "Mystère"
-   ],
-   "releaseInfo": "2024"
-  },
-  {
-   "id": "tt5040012",
-   "type": "movie",
-   "name": "Nosferatu",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A8UIMJTwSaflmWmUlfPOFdenSBT.jpg",
-   "description": "Dans l'Allemagne de 1838, Thomas Hutter, agent immobilier, est envoyé en Transylvanie pour rencontrer le mystérieux comte Orlok, intéressé par l'achat d'une propriété à Wisborg. Laissant derrière lui sa jeune épouse, Ellen, sujette à des visions inquiétantes, Thomas découvre rapidement la véritable ",
-   "genres": [
-    "Horreur",
-    "Fantastique"
-   ],
-   "releaseInfo": "2024"
-  },
-  {
-   "id": "tt26581740",
-   "type": "movie",
-   "name": "Évanouis",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3eRJV97oZDY6LORwPNdWlfdPLnd.jpg",
-   "description": "En plein cœur de la nuit, les 17 enfants d'une classe de l'école primaire de Maybrook aux États-Unis se réveillent à une heure précise et s'enfuient de leurs foyers. Mus par une force inébranlable, ils sont partis à la course et personne ne sait où ils s'en sont allés. Tous ont disparu, sauf un. Ale",
-   "genres": [
-    "Horreur",
-    "Mystère"
-   ],
-   "releaseInfo": "2025"
+   "releaseInfo": "2018",
+   "imdbRating": "7.5"
   },
   {
    "id": "tt31193180",
@@ -346,7 +79,116 @@
     "Action",
     "Thriller"
    ],
-   "releaseInfo": "2025"
+   "releaseInfo": "2025",
+   "imdbRating": "7.5"
+  },
+  {
+   "id": "tt0464141",
+   "type": "movie",
+   "name": "L'Orphelinat",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Zig1ATMyD4FPzPW4DfDNt9HrLU.jpg",
+   "description": "Laura a passé son enfance dans un orphelinat entourée d'autres enfants qu'elle aimait comme ses frères et sœurs. Adulte, elle retourne sur les lieux avec son mari et son fils de sept ans, Simon, avec l'intention de restaurer la vieille maison. La demeure réveille l'imagination de Simon, qui commence",
+   "genres": [
+    "Horreur",
+    "Drame",
+    "Thriller"
+   ],
+   "releaseInfo": "2007",
+   "imdbRating": "7.4"
+  },
+  {
+   "id": "tt0117571",
+   "type": "movie",
+   "name": "Scream",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9LfX3IBeByGdFkmkmNztKBr4nYv.jpg",
+   "description": "Casey Becker, une belle adolescente, est seule dans la maison familiale. Elle s'apprête à regarder un film d'horreur, mais le téléphone sonne. Au bout du fil, un serial killer la malmène, et la force à jouer à un jeu terrible : si elle répond mal à ses questions portant sur les films d'horreur, celu",
+   "genres": [
+    "Crime",
+    "Horreur",
+    "Mystère"
+   ],
+   "releaseInfo": "1996",
+   "imdbRating": "7.4"
+  },
+  {
+   "id": "tt26581740",
+   "type": "movie",
+   "name": "Évanouis",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3eRJV97oZDY6LORwPNdWlfdPLnd.jpg",
+   "description": "En plein cœur de la nuit, les 17 enfants d'une classe de l'école primaire de Maybrook aux États-Unis se réveillent à une heure précise et s'enfuient de leurs foyers. Mus par une force inébranlable, ils sont partis à la course et personne ne sait où ils s'en sont allés. Tous ont disparu, sauf un. Ale",
+   "genres": [
+    "Horreur",
+    "Mystère"
+   ],
+   "releaseInfo": "2025",
+   "imdbRating": "7.4"
+  },
+  {
+   "id": "tt7784604",
+   "type": "movie",
+   "name": "Hérédité",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Bz0u7xEyOUnGi4ov3rZKqKYCuH.jpg",
+   "description": "Quand Ellen, la matriarche de la famille Graham, meurt, sa fille revient vivre dans la maison avec sa famille. Ils vont alors découvrir le terrifiant secret de leur ancêtre...",
+   "genres": [
+    "Horreur",
+    "Mystère",
+    "Thriller"
+   ],
+   "releaseInfo": "2018",
+   "imdbRating": "7.3"
+  },
+  {
+   "id": "tt1396484",
+   "type": "movie",
+   "name": "Ça",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3SUz0F0I2Bodcj9Ev2pYSWnE9zp.jpg",
+   "description": "À Derry, dans le Maine, aux États-Unis, 7 gamins, ayant du mal à s’intégrer, se sont regroupés au sein du Club des Ratés. Rejetés par leurs camarades, ils sont les cibles favorites des gros durs de l’école. Ils ont aussi en commun d’avoir éprouvé leur plus grande terreur face à un terrible prédateur",
+   "genres": [
+    "Horreur",
+    "Thriller",
+    "Drame"
+   ],
+   "releaseInfo": "2017",
+   "imdbRating": "7.3"
+  },
+  {
+   "id": "tt10638522",
+   "type": "movie",
+   "name": "La Main",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yoZmZOIk35ZuH0WJoakB81ypHUH.jpg",
+   "description": "Lorsqu'un groupe d'amis découvre comment conjurer les esprits à l'aide d'une mystérieuse main hantée, ils deviennent accros à ce nouveau frisson, et l’expérience fait le tour des réseaux sociaux. Une seule règle à respecter : ils ne doivent pas tenir la main plus de 90 secondes. Lorsque l’un d’entre",
+   "genres": [
+    "Horreur"
+   ],
+   "releaseInfo": "2023",
+   "imdbRating": "7.1"
+  },
+  {
+   "id": "tt8772262",
+   "type": "movie",
+   "name": "Midsommar",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/17pvY55Zr60niVovNvgt72mwvES.jpg",
+   "description": "Dani et Christian sont sur le point de se séparer quand la famille de Dani est touchée par une tragédie. Attristé par le deuil de la jeune femme, Christian ne peut se résoudre à la laisser seule et l’emmène avec lui et ses amis à un festival estival qui n’a lieu que tous les 90 ans et se déroule dan",
+   "genres": [
+    "Horreur",
+    "Drame",
+    "Mystère"
+   ],
+   "releaseInfo": "2019",
+   "imdbRating": "7.1"
+  },
+  {
+   "id": "tt5040012",
+   "type": "movie",
+   "name": "Nosferatu",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A8UIMJTwSaflmWmUlfPOFdenSBT.jpg",
+   "description": "Dans l'Allemagne de 1838, Thomas Hutter, agent immobilier, est envoyé en Transylvanie pour rencontrer le mystérieux comte Orlok, intéressé par l'achat d'une propriété à Wisborg. Laissant derrière lui sa jeune épouse, Ellen, sujette à des visions inquiétantes, Thomas découvre rapidement la véritable ",
+   "genres": [
+    "Horreur",
+    "Fantastique"
+   ],
+   "releaseInfo": "2024",
+   "imdbRating": "7.1"
   },
   {
    "id": "tt32246771",
@@ -357,7 +199,194 @@
    "genres": [
     "Horreur"
    ],
-   "releaseInfo": "2025"
+   "releaseInfo": "2025",
+   "imdbRating": "7.1"
+  },
+  {
+   "id": "tt15791034",
+   "type": "movie",
+   "name": "Barbare",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJS3o7TgR0pvdtD045kQJQpHXMd.jpg",
+   "description": "Une jeune femme se rend à Détroit pour un entretien d'embauche, loue une maison, le temps de son séjour. Mais lorsqu'elle arrive tard dans la nuit, elle découvre que la demeure est occupée par deux personnes et qu'un homme étrange y réside déjà... N'ayant pas d'autre choix, elle décide de passer la ",
+   "genres": [
+    "Horreur",
+    "Mystère",
+    "Thriller"
+   ],
+   "releaseInfo": "2022",
+   "imdbRating": "7.0"
+  },
+  {
+   "id": "tt4263482",
+   "type": "movie",
+   "name": "The Witch",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cO6EPLw3YfC700TS4JfUaRTGXaZ.jpg",
+   "description": "1630, en Nouvelle-Angleterre. William et Katherine, un couple dévot, s’établit à la limite de la civilisation, menant une vie pieuse avec leurs cinq enfants et cultivant leur lopin de terre au milieu d’une étendue encore sauvage. La mystérieuse disparition de leur nouveau-né et la perte soudaine de ",
+   "genres": [
+    "Horreur",
+    "Fantastique",
+    "Mystère"
+   ],
+   "releaseInfo": "2016",
+   "imdbRating": "7.0"
+  },
+  {
+   "id": "tt18925334",
+   "type": "movie",
+   "name": "Pearl",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pe6W1l0MSFUjZYCH3psEkJBXVav.jpg",
+   "description": "Piégée dans la ferme isolée de sa famille, Pearl doit s'occuper de son père malade sous le regard autoritaire de sa mère dévote. Désireuse de mener une vie glamour comme elle l'a vu dans les films, Pearl voit ses ambitions limitées... ce qu'elle n'apprécie pas du tout !",
+   "genres": [
+    "Horreur",
+    "Drame"
+   ],
+   "releaseInfo": "2022",
+   "imdbRating": "7.0"
+  },
+  {
+   "id": "tt4954522",
+   "type": "movie",
+   "name": "Grave",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rezrNBKn6xFTOy5uz0zKV2QQD62.jpg",
+   "description": "Dans la famille de Justine tout le monde est vétérinaire et végétarien. À 16 ans, elle est une adolescente surdouée sur le point d’intégrer l’école véto où sa sœur ainée est également élève. Mais, à peine installés, le bizutage commence pour les premières années. On force Justine à manger de la vian",
+   "genres": [
+    "Horreur",
+    "Drame"
+   ],
+   "releaseInfo": "2017",
+   "imdbRating": "6.9"
+  },
+  {
+   "id": "tt3235888",
+   "type": "movie",
+   "name": "It Follows",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jh8bol1N8COAGSj4ksrcUNo8xxc.jpg",
+   "description": "Une jeune femme est poursuivie par une force surnaturelle inconnue, après une relation sexuelle.",
+   "genres": [
+    "Horreur",
+    "Mystère"
+   ],
+   "releaseInfo": "2015",
+   "imdbRating": "6.8"
+  },
+  {
+   "id": "tt2321549",
+   "type": "movie",
+   "name": "Mister Babadook",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wg2RSUyvBsKjjZhEoyePkEiOrUZ.jpg",
+   "description": "Depuis la mort brutale de son mari, Amelia lutte pour ramener à la raison son fils de 6 ans, Samuel, devenu complètement incontrôlable et qu'elle n'arrive pas à aimer. Quand un livre de contes intitulé « Mister Babadook » se retrouve mystérieusement dans leur maison, Samuel est convaincu que le « Ba",
+   "genres": [
+    "Drame",
+    "Horreur"
+   ],
+   "releaseInfo": "2014",
+   "imdbRating": "6.8"
+  },
+  {
+   "id": "tt1591095",
+   "type": "movie",
+   "name": "Insidious",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmyqYYJTMtCBlUNr0JAp5R59X8H.jpg",
+   "description": "Alors qu'un jeune couple s'installe dans sa nouvelle maison, l'aîné de leurs enfants tombe dans un coma inexpliqué. Peu après, des phénomènes paranormaux jamais vus viennent hanter leurs nuits...",
+   "genres": [
+    "Horreur",
+    "Thriller"
+   ],
+   "releaseInfo": "2011",
+   "imdbRating": "6.8"
+  },
+  {
+   "id": "tt1922777",
+   "type": "movie",
+   "name": "Sinister",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qKXxPnsnVbtxFSwhxvKGZTUd5mm.jpg",
+   "description": "Ellison est un auteur de romans policiers inspirés de faits réels. Dans l’espoir d’écrire un nouveau livre à succès, il emménage avec sa famille dans une maison où les anciens propriétaires ont été retrouvés inexplicablement pendus. Ellison y découvre dans le grenier des bobines 8mm contenant les im",
+   "genres": [
+    "Horreur",
+    "Thriller",
+    "Mystère"
+   ],
+   "releaseInfo": "2012",
+   "imdbRating": "6.8"
+  },
+  {
+   "id": "tt6857112",
+   "type": "movie",
+   "name": "Us",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5l4UPVn98JCL4oeIpDRHf6M5n3y.jpg",
+   "description": "Des parents emmènent leurs enfants dans leur maison secondaire près d'une plage afin de se détendre et de se déconnecter. Des amis les rejoignent. Au fur et à mesure que la nuit arrive, la sérénité se transforme en tension. Lorsque des invités — qui n'étaient pas prévus — se joignent au groupe, l'ag",
+   "genres": [
+    "Thriller",
+    "Horreur"
+   ],
+   "releaseInfo": "2019",
+   "imdbRating": "6.8"
+  },
+  {
+   "id": "tt10954984",
+   "type": "movie",
+   "name": "Nope",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1z84OMbtzmFWsiQWyonoPqWY2Z.jpg",
+   "description": "Dans une ferme reculée en Californie, Otis « O.J. » Haywood et sa sœur travaillent ensemble dans leur écurie pour un réalisateur respecté. Mais, après la mort soudaine et étrange de leur père, tué par un objet tombé du ciel, le duo est aidé par Angel, employé dans une société de caméras de surveilla",
+   "genres": [
+    "Horreur",
+    "Science-Fiction",
+    "Thriller"
+   ],
+   "releaseInfo": "2022",
+   "imdbRating": "6.8"
+  },
+  {
+   "id": "tt15474916",
+   "type": "movie",
+   "name": "Smile",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3kbtoJw6ZN0UUQhSuiRbAatr2kV.jpg",
+   "description": "Après avoir assisté à un incident traumatisant impliquant un patient, le Dr Rose Cotter se met à vivre des événements effrayants qu'elle ne peut expliquer. Alors qu'une terreur écrasante s'empare de sa vie, Rose doit affronter son passé afin de survivre et d'échapper à sa nouvelle réalité terrifiant",
+   "genres": [
+    "Horreur",
+    "Mystère"
+   ],
+   "releaseInfo": "2022",
+   "imdbRating": "6.5"
+  },
+  {
+   "id": "tt2554274",
+   "type": "movie",
+   "name": "Crimson Peak",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sTfk9qcg4YE1Svl0854bxnSl3Mx.jpg",
+   "description": "Au début du siècle dernier, Edith Cushing, une jeune romancière en herbe, vit avec son père Carter Cushing à Buffalo, dans l’État de New York. La jeune femme est hantée, au sens propre, par la mort de sa mère. Elle possède le don de communiquer avec les âmes des défunts et reçoit un étrange message ",
+   "genres": [
+    "Horreur",
+    "Romance"
+   ],
+   "releaseInfo": "2015",
+   "imdbRating": "6.5"
+  },
+  {
+   "id": "tt13560574",
+   "type": "movie",
+   "name": "X",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ep2C0shFTkxPUGLBvsgODWycwU7.jpg",
+   "description": "Fin des années 70, une équipe de tournage investit une maison isolée du fin fond du Texas pour y réaliser un film X. À la tombée de la nuit, les propriétaires des lieux surprennent les cinéastes amateurs en plein acte. Le tournage vire brutalement au cauchemar.",
+   "genres": [
+    "Horreur"
+   ],
+   "releaseInfo": "2022",
+   "imdbRating": "6.5"
+  },
+  {
+   "id": "tt23468450",
+   "type": "movie",
+   "name": "Longlegs",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ncTqrUeLNZee3WtKSX5lJBZDkUf.jpg",
+   "description": "L'agent du FBI Lee Harker, une nouvelle recrue talentueuse, est affectée sur le cas irrésolu d'un tueur en série insaisissable. L’enquête, aux frontières de l’occulte, se complexifie encore lorsqu’elle se découvre un lien personnel avec le tueur impitoyable qu’elle doit arrêter avant qu'il ne prenne",
+   "genres": [
+    "Crime",
+    "Horreur",
+    "Mystère"
+   ],
+   "releaseInfo": "2024",
+   "imdbRating": "6.5"
   }
  ]
 }

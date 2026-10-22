@@ -11,163 +11,8 @@
     "Familial",
     "Fantastique"
    ],
-   "releaseInfo": "2001"
-  },
-  {
-   "id": "tt0096283",
-   "type": "movie",
-   "name": "Mon voisin Totoro",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEpy8IiR8N0S6mgkdAjDCMlMYQO.jpg",
-   "description": "Mei, 4 ans, et Satsuki, 10 ans, s’installent à la campagne avec leur père pour se rapprocher de l’hôpital où séjourne leur mère. Elles découvrent la nature tout autour de la maison et, surtout, l’existence d’animaux étranges et merveilleux, les Totoros, avec qui elles deviennent très amies. Un jour,",
-   "genres": [
-    "Fantastique",
-    "Animation",
-    "Familial"
-   ],
-   "releaseInfo": "1988"
-  },
-  {
-   "id": "tt0097814",
-   "type": "movie",
-   "name": "Kiki la petite sorcière",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tdOJxx6PCzjPYViSnk0OPQ80X2d.jpg",
-   "description": "À l'âge de 13 ans, une future sorcière doit partir faire son apprentissage dans une ville inconnue durant un an. Une expérience que va vivre la jeune et espiègle Kiki aux côtés de Osono, une gentille boulangère qui lui propose un emploi de livreuse.",
-   "genres": [
-    "Animation",
-    "Familial",
-    "Fantastique"
-   ],
-   "releaseInfo": "1989"
-  },
-  {
-   "id": "tt0876563",
-   "type": "movie",
-   "name": "Ponyo sur la falaise",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ud7spJ4CH0UlsBz5n3KcXTaCNH2.jpg",
-   "description": "La trame suit une petite princesse poisson rouge appelée Ponyo qui veut désespérément devenir humaine. En cherchant ce faire, elle devient amie d'un garçon de cinq ans, Sôsuke.",
-   "genres": [
-    "Animation",
-    "Fantastique",
-    "Familial"
-   ],
-   "releaseInfo": "2008"
-  },
-  {
-   "id": "tt37016430",
-   "type": "movie",
-   "name": "Castle in the Sky",
-   "poster": "https://aiometadata.elfhosted.com/missing_poster.png",
-   "description": "An unprecedented look into the Loyalist community of the Craigyhill Estate in Larne, Northern Ireland as their master builders work toward achieving a world record by constructing the tallest bonfire in history.",
-   "genres": [
-    "Documentary"
-   ],
-   "releaseInfo": "2025"
-  },
-  {
-   "id": "tt0104652",
-   "type": "movie",
-   "name": "Porco Rosso",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o5QGUhhOICBR4C9ZZqBAeocrVde.jpg",
-   "description": "Dans l'entre-deux-guerres quelque part en Italie, le pilote Marco, aventurier solitaire, vit dans le repaire qu'il a établi sur une île déserte de l'Adriatique. À bord de son splendide hydravion rouge, il vient en aide aux personnes en difficulté.",
-   "genres": [
-    "Animation",
-    "Aventure",
-    "Fantastique"
-   ],
-   "releaseInfo": "1992"
-  },
-  {
-   "id": "tt2576852",
-   "type": "movie",
-   "name": "Le Conte de la princesse Kaguya",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yBbJpLFmwdEHzeyeEstoi9mM5lX.jpg",
-   "description": "Adapté d’un conte populaire japonais \"Le coupeur de bambou\", un des textes fondateurs de la littérature japonaise, Kaguya, \"la princesse lumineuse\", est découverte dans la tige d'un bambou par des paysans. Elle devient très vite une magnifique jeune femme que les plus grands princes convoitent : ceu",
-   "genres": [
-    "Animation",
-    "Drame",
-    "Fantastique"
-   ],
-   "releaseInfo": "2013"
-  },
-  {
-   "id": "tt0113824",
-   "type": "movie",
-   "name": "Si tu tends l'oreille",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0MAMtcsKSCTq1WJbdsiBa5fckY.jpg",
-   "description": "Shizuku est une jeune collégienne de quatorze ans comme toutes les autres, mais elle est passionnée de littérature et elle écrit des chansons. C’est l’été à Tokyo, et elle a décidé de lire, pendant les vacances, une vingtaine de livres. Elle découvre qu’à chacun des romans qu’elle a choisis, le nom ",
-   "genres": [
-    "Animation",
-    "Drame",
-    "Familial"
-   ],
-   "releaseInfo": "1995"
-  },
-  {
-   "id": "tt3398268",
-   "type": "movie",
-   "name": "Souvenirs de Marnie",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cc1UKEQCw7BJA7uWnZbd2tfqM4.jpg",
-   "description": "Anna, jeune fille solitaire, vit en ville avec ses parents adoptifs. Un été, elle est envoyée dans un petit village au nord d’Hokkaïdo. Dans une vieille demeure inhabitée, au cœur des marais, elle va se lier d’amitié avec l’étrange Marnie…",
-   "genres": [
-    "Animation",
-    "Drame",
-    "Familial"
-   ],
-   "releaseInfo": "2014"
-  },
-  {
-   "id": "tt5198068",
-   "type": "movie",
-   "name": "Le Peuple Loup",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/99nGeJE30eYsg6SwMGkyYK938r2.jpg",
-   "description": "Apprentie chasseuse, Robyn se rend en Irlande avec son père pour exterminer la dernière meute de loups. Pourtant, sa vie va changer lorsqu’elle se lie d’amitié avec une jeune fille intrépide dont on dit que la tribu se change en loups la nuit tombée.",
-   "genres": [
-    "Animation",
-    "Familial",
-    "Aventure",
-    "Fantastique"
-   ],
-   "releaseInfo": "2020"
-  },
-  {
-   "id": "tt1865505",
-   "type": "movie",
-   "name": "Le Chant de la mer",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHnQSQrT9hYUUdjAFn9iaSZuatq.jpg",
-   "description": "Ben et Maïna vivent avec leur père tout en haut d'un phare sur une petite île. Pour les protéger des dangers de la mer, leur grand-mère les emmène vivre à la ville. Ben découvre alors que sa petite soeur est une selkie, une fée de la mer dont le chant peut délivrer les êtres magiques du sort que leu",
-   "genres": [
-    "Familial",
-    "Animation",
-    "Fantastique"
-   ],
-   "releaseInfo": "2014"
-  },
-  {
-   "id": "tt13429870",
-   "type": "movie",
-   "name": "Mon ami robot",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52a74RxIaYgdZxUoe0SxcUa2Vy7.jpg",
-   "description": "Chien, vit à Manhattan et la solitude lui pèse. Un jour, il décide de construire un robot et deviennent alors les meilleurs amis du monde ! Par une nuit d’été, Chien avec grande tristesse, est obligé d’abandonner Robot sur la plage. Se reverront-ils un jour ?",
-   "genres": [
-    "Animation",
-    "Drame",
-    "Comédie",
-    "Science-Fiction"
-   ],
-   "releaseInfo": "2023"
-  },
-  {
-   "id": "tt4729430",
-   "type": "movie",
-   "name": "Klaus",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qb0eCUtvi2Rn5etdqFbaYzvIPYn.jpg",
-   "description": "Un facteur égoïste et un fabricant de jouets solitaire forgent une amitié improbable, apportant la joie à une bourgade sombre et froide qui en a désespérément besoin.",
-   "genres": [
-    "Animation",
-    "Familial",
-    "Comédie"
-   ],
-   "releaseInfo": "2019"
+   "releaseInfo": "2001",
+   "imdbRating": "8.6"
   },
   {
    "id": "tt5311514",
@@ -180,35 +25,22 @@
     "Romance",
     "Drame"
    ],
-   "releaseInfo": "2016"
+   "releaseInfo": "2016",
+   "imdbRating": "8.4"
   },
   {
-   "id": "tt9426210",
+   "id": "tt4729430",
    "type": "movie",
-   "name": "Les Enfants du temps",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aaA9BMG4fvq9KCLz3W4iVcAWRcU.jpg",
-   "description": "Jeune lycéen, Hodaka fuit son île pour rejoindre Tokyo. Sans argent ni emploi, il tente de survivre dans la jungle urbaine et trouve un poste dans une revue dédiée au paranormal. Un phénomène météorologique extrême touche alors le Japon, exposé à de constantes pluies. Hodaka est dépêché pour enquête",
+   "name": "Klaus",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qb0eCUtvi2Rn5etdqFbaYzvIPYn.jpg",
+   "description": "Un facteur égoïste et un fabricant de jouets solitaire forgent une amitié improbable, apportant la joie à une bourgade sombre et froide qui en a désespérément besoin.",
    "genres": [
     "Animation",
-    "Drame",
-    "Fantastique",
-    "Romance"
+    "Familial",
+    "Comédie"
    ],
-   "releaseInfo": "2019"
-  },
-  {
-   "id": "tt16428256",
-   "type": "movie",
-   "name": "Suzume",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOJYwkVSgXtE3BJFN0bRPKdLJLj.jpg",
-   "description": "Dans une petite ville paisible de Kyushu, une jeune fille de 17 ans, Suzume, rencontre un homme qui dit voyager à la recherche d’une porte. Décidant de le suivre dans les montagnes, elle découvre une porte délabrée trônant au milieu des ruines, seul vestige ayant survécu au passage du temps. Cédant ",
-   "genres": [
-    "Animation",
-    "Drame",
-    "Aventure",
-    "Fantastique"
-   ],
-   "releaseInfo": "2022"
+   "releaseInfo": "2019",
+   "imdbRating": "8.2"
   },
   {
    "id": "tt5323662",
@@ -221,7 +53,22 @@
     "Drame",
     "Romance"
    ],
-   "releaseInfo": "2016"
+   "releaseInfo": "2016",
+   "imdbRating": "8.2"
+  },
+  {
+   "id": "tt0096283",
+   "type": "movie",
+   "name": "Mon voisin Totoro",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEpy8IiR8N0S6mgkdAjDCMlMYQO.jpg",
+   "description": "Mei, 4 ans, et Satsuki, 10 ans, s’installent à la campagne avec leur père pour se rapprocher de l’hôpital où séjourne leur mère. Elles découvrent la nature tout autour de la maison et, surtout, l’existence d’animaux étranges et merveilleux, les Totoros, avec qui elles deviennent très amies. Un jour,",
+   "genres": [
+    "Fantastique",
+    "Animation",
+    "Familial"
+   ],
+   "releaseInfo": "1988",
+   "imdbRating": "8.1"
   },
   {
    "id": "tt2140203",
@@ -235,63 +82,67 @@
     "Drame",
     "Fantastique"
    ],
-   "releaseInfo": "2012"
+   "releaseInfo": "2012",
+   "imdbRating": "8.1"
   },
   {
-   "id": "tt6900448",
+   "id": "tt2576852",
    "type": "movie",
-   "name": "Miraï, ma petite sœur",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVJoTdMTz0kA1oFAaKI86tNQYrW.jpg",
-   "description": "Kun est un petit garçon à l’enfance heureuse jusqu’à l’arrivée de Miraï, sa petite soeur. Jaloux de ce bébé qui monopolise l’attention de ses parents, il se replie peu à peu sur lui-même. Au fond de son jardin, où il se réfugie souvent, se trouve un arbre généalo-magique. Soudain, Kun est propulsé d",
+   "name": "Le Conte de la princesse Kaguya",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yBbJpLFmwdEHzeyeEstoi9mM5lX.jpg",
+   "description": "Adapté d’un conte populaire japonais \"Le coupeur de bambou\", un des textes fondateurs de la littérature japonaise, Kaguya, \"la princesse lumineuse\", est découverte dans la tige d'un bambou par des paysans. Elle devient très vite une magnifique jeune femme que les plus grands princes convoitent : ceu",
    "genres": [
-    "Animation",
-    "Familial",
-    "Fantastique",
-    "Aventure",
-    "Drame"
-   ],
-   "releaseInfo": "2018"
-  },
-  {
-   "id": "tt0808506",
-   "type": "movie",
-   "name": "La Traversée du temps",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyzz8M06RTzzeSrY85opuL88QyI.jpg",
-   "description": "Makoto est une jeune lycéenne comme les autres, un peu garçon manqué, pas trop intéressée par l’école et absolument pas concernée par le temps qui passe ! Jusqu’au jour où elle reçoit un don particulier : celui de pouvoir traverser le temps. Améliorer ses notes, aider des idylles naissantes, manger ",
-   "genres": [
-    "Fantastique",
     "Animation",
     "Drame",
-    "Science-Fiction"
+    "Fantastique"
    ],
-   "releaseInfo": "2006"
+   "releaseInfo": "2013",
+   "imdbRating": "8.0"
   },
   {
-   "id": "tt0327597",
+   "id": "tt5198068",
    "type": "movie",
-   "name": "Coraline",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xuUfl07Wdc150rDwKLKCCbLfLGQ.jpg",
-   "description": "Coraline Jones est une fillette intrépide et douée d’une curiosité sans limites. Ses parents, qui ont tout juste emménagé avec elle dans une étrange maison, n’ont guère de temps à lui consacrer. Pour tromper son ennui, Coraline décide donc de jouer les exploratrices. Ouvrant une porte condamnée, ell",
+   "name": "Le Peuple Loup",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/99nGeJE30eYsg6SwMGkyYK938r2.jpg",
+   "description": "Apprentie chasseuse, Robyn se rend en Irlande avec son père pour exterminer la dernière meute de loups. Pourtant, sa vie va changer lorsqu’elle se lie d’amitié avec une jeune fille intrépide dont on dit que la tribu se change en loups la nuit tombée.",
    "genres": [
     "Animation",
     "Familial",
-    "Fantastique",
-    "Horreur"
+    "Aventure",
+    "Fantastique"
    ],
-   "releaseInfo": "2009"
+   "releaseInfo": "2020",
+   "imdbRating": "8.0"
   },
   {
-   "id": "tt4302938",
+   "id": "tt1865505",
    "type": "movie",
-   "name": "Kubo et l'armure magique",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vbVomBFh965jxqIa64CnCdg6PVX.jpg",
-   "description": "Sur les rives escarpées d’un Japon fantasmagorique, un jeune garçon nommé Kubo vit dans une grotte, en haut d’une falaise. S’il a l’air d’un vagabond dépenaillé, il est pourtant aussi attentionné qu’intelligent et vit une existence modeste de conteur de rue. Jour après jour, il régale des histoires ",
+   "name": "Le Chant de la mer",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHnQSQrT9hYUUdjAFn9iaSZuatq.jpg",
+   "description": "Ben et Maïna vivent avec leur père tout en haut d'un phare sur une petite île. Pour les protéger des dangers de la mer, leur grand-mère les emmène vivre à la ville. Ben découvre alors que sa petite soeur est une selkie, une fée de la mer dont le chant peut délivrer les êtres magiques du sort que leu",
    "genres": [
+    "Familial",
     "Animation",
+    "Fantastique"
+   ],
+   "releaseInfo": "2014",
+   "imdbRating": "8.0"
+  },
+  {
+   "id": "tt0092067",
+   "type": "movie",
+   "name": "Le Château dans le ciel",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7tTUs77uOWee6GIOMB6OhtLgslI.jpg",
+   "description": "Sheeta, seule héritière des secrets de Laputa, la cité volante, attire l’avidité des pirates et de l’armée. Poursuivie, elle est sauvée par Pazu, un jeune pilote d’avion travaillant dans une cité minière.",
+   "genres": [
     "Aventure",
+    "Fantastique",
+    "Animation",
+    "Action",
     "Familial"
    ],
-   "releaseInfo": "2016"
+   "releaseInfo": "1991",
+   "imdbRating": "8.0"
   },
   {
    "id": "tt0107688",
@@ -304,7 +155,8 @@
     "Animation",
     "Familial"
    ],
-   "releaseInfo": "1993"
+   "releaseInfo": "1993",
+   "imdbRating": "7.9"
   },
   {
    "id": "tt3915174",
@@ -319,7 +171,183 @@
     "Comédie",
     "Familial"
    ],
-   "releaseInfo": "2022"
+   "releaseInfo": "2022",
+   "imdbRating": "7.9"
+  },
+  {
+   "id": "tt0097814",
+   "type": "movie",
+   "name": "Kiki la petite sorcière",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tdOJxx6PCzjPYViSnk0OPQ80X2d.jpg",
+   "description": "À l'âge de 13 ans, une future sorcière doit partir faire son apprentissage dans une ville inconnue durant un an. Une expérience que va vivre la jeune et espiègle Kiki aux côtés de Osono, une gentille boulangère qui lui propose un emploi de livreuse.",
+   "genres": [
+    "Animation",
+    "Familial",
+    "Fantastique"
+   ],
+   "releaseInfo": "1989",
+   "imdbRating": "7.8"
+  },
+  {
+   "id": "tt0113824",
+   "type": "movie",
+   "name": "Si tu tends l'oreille",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0MAMtcsKSCTq1WJbdsiBa5fckY.jpg",
+   "description": "Shizuku est une jeune collégienne de quatorze ans comme toutes les autres, mais elle est passionnée de littérature et elle écrit des chansons. C’est l’été à Tokyo, et elle a décidé de lire, pendant les vacances, une vingtaine de livres. Elle découvre qu’à chacun des romans qu’elle a choisis, le nom ",
+   "genres": [
+    "Animation",
+    "Drame",
+    "Familial"
+   ],
+   "releaseInfo": "1995",
+   "imdbRating": "7.8"
+  },
+  {
+   "id": "tt0327597",
+   "type": "movie",
+   "name": "Coraline",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xuUfl07Wdc150rDwKLKCCbLfLGQ.jpg",
+   "description": "Coraline Jones est une fillette intrépide et douée d’une curiosité sans limites. Ses parents, qui ont tout juste emménagé avec elle dans une étrange maison, n’ont guère de temps à lui consacrer. Pour tromper son ennui, Coraline décide donc de jouer les exploratrices. Ouvrant une porte condamnée, ell",
+   "genres": [
+    "Animation",
+    "Familial",
+    "Fantastique",
+    "Horreur"
+   ],
+   "releaseInfo": "2009",
+   "imdbRating": "7.8"
+  },
+  {
+   "id": "tt1816518",
+   "type": "movie",
+   "name": "Ernest et Célestine",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3pNUKmcLhix0qEXsOUEVN15risM.jpg",
+   "description": "Dans le monde conventionnel des ours, il est mal vu de se lier d’amitié avec une souris. Et pourtant, Ernest, gros ours marginal, clown et musicien, va accueillir chez lui la petite Célestine, une orpheline qui a fui le monde souterrain des rongeurs. Ces deux solitaires vont se soutenir et se réconf",
+   "genres": [
+    "Animation",
+    "Familial",
+    "Crime",
+    "Drame",
+    "Comédie"
+   ],
+   "releaseInfo": "2012",
+   "imdbRating": "7.8"
+  },
+  {
+   "id": "tt0104652",
+   "type": "movie",
+   "name": "Porco Rosso",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o5QGUhhOICBR4C9ZZqBAeocrVde.jpg",
+   "description": "Dans l'entre-deux-guerres quelque part en Italie, le pilote Marco, aventurier solitaire, vit dans le repaire qu'il a établi sur une île déserte de l'Adriatique. À bord de son splendide hydravion rouge, il vient en aide aux personnes en difficulté.",
+   "genres": [
+    "Animation",
+    "Aventure",
+    "Fantastique"
+   ],
+   "releaseInfo": "1992",
+   "imdbRating": "7.7"
+  },
+  {
+   "id": "tt4302938",
+   "type": "movie",
+   "name": "Kubo et l'armure magique",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vbVomBFh965jxqIa64CnCdg6PVX.jpg",
+   "description": "Sur les rives escarpées d’un Japon fantasmagorique, un jeune garçon nommé Kubo vit dans une grotte, en haut d’une falaise. S’il a l’air d’un vagabond dépenaillé, il est pourtant aussi attentionné qu’intelligent et vit une existence modeste de conteur de rue. Jour après jour, il régale des histoires ",
+   "genres": [
+    "Animation",
+    "Aventure",
+    "Familial"
+   ],
+   "releaseInfo": "2016",
+   "imdbRating": "7.7"
+  },
+  {
+   "id": "tt0876563",
+   "type": "movie",
+   "name": "Ponyo sur la falaise",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ud7spJ4CH0UlsBz5n3KcXTaCNH2.jpg",
+   "description": "La trame suit une petite princesse poisson rouge appelée Ponyo qui veut désespérément devenir humaine. En cherchant ce faire, elle devient amie d'un garçon de cinq ans, Sôsuke.",
+   "genres": [
+    "Animation",
+    "Fantastique",
+    "Familial"
+   ],
+   "releaseInfo": "2008",
+   "imdbRating": "7.6"
+  },
+  {
+   "id": "tt3398268",
+   "type": "movie",
+   "name": "Souvenirs de Marnie",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cc1UKEQCw7BJA7uWnZbd2tfqM4.jpg",
+   "description": "Anna, jeune fille solitaire, vit en ville avec ses parents adoptifs. Un été, elle est envoyée dans un petit village au nord d’Hokkaïdo. Dans une vieille demeure inhabitée, au cœur des marais, elle va se lier d’amitié avec l’étrange Marnie…",
+   "genres": [
+    "Animation",
+    "Drame",
+    "Familial"
+   ],
+   "releaseInfo": "2014",
+   "imdbRating": "7.6"
+  },
+  {
+   "id": "tt13429870",
+   "type": "movie",
+   "name": "Mon ami robot",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52a74RxIaYgdZxUoe0SxcUa2Vy7.jpg",
+   "description": "Chien, vit à Manhattan et la solitude lui pèse. Un jour, il décide de construire un robot et deviennent alors les meilleurs amis du monde ! Par une nuit d’été, Chien avec grande tristesse, est obligé d’abandonner Robot sur la plage. Se reverront-ils un jour ?",
+   "genres": [
+    "Animation",
+    "Drame",
+    "Comédie",
+    "Science-Fiction"
+   ],
+   "releaseInfo": "2023",
+   "imdbRating": "7.6"
+  },
+  {
+   "id": "tt16428256",
+   "type": "movie",
+   "name": "Suzume",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOJYwkVSgXtE3BJFN0bRPKdLJLj.jpg",
+   "description": "Dans une petite ville paisible de Kyushu, une jeune fille de 17 ans, Suzume, rencontre un homme qui dit voyager à la recherche d’une porte. Décidant de le suivre dans les montagnes, elle découvre une porte délabrée trônant au milieu des ruines, seul vestige ayant survécu au passage du temps. Cédant ",
+   "genres": [
+    "Animation",
+    "Drame",
+    "Aventure",
+    "Fantastique"
+   ],
+   "releaseInfo": "2022",
+   "imdbRating": "7.6"
+  },
+  {
+   "id": "tt0808506",
+   "type": "movie",
+   "name": "La Traversée du temps",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyzz8M06RTzzeSrY85opuL88QyI.jpg",
+   "description": "Makoto est une jeune lycéenne comme les autres, un peu garçon manqué, pas trop intéressée par l’école et absolument pas concernée par le temps qui passe ! Jusqu’au jour où elle reçoit un don particulier : celui de pouvoir traverser le temps. Améliorer ses notes, aider des idylles naissantes, manger ",
+   "genres": [
+    "Fantastique",
+    "Animation",
+    "Drame",
+    "Science-Fiction"
+   ],
+   "releaseInfo": "2006",
+   "imdbRating": "7.6"
+  },
+  {
+   "id": "tt9426210",
+   "type": "movie",
+   "name": "Les Enfants du temps",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aaA9BMG4fvq9KCLz3W4iVcAWRcU.jpg",
+   "description": "Jeune lycéen, Hodaka fuit son île pour rejoindre Tokyo. Sans argent ni emploi, il tente de survivre dans la jungle urbaine et trouve un poste dans une revue dédiée au paranormal. Un phénomène météorologique extrême touche alors le Japon, exposé à de constantes pluies. Hodaka est dépêché pour enquête",
+   "genres": [
+    "Animation",
+    "Drame",
+    "Fantastique",
+    "Romance"
+   ],
+   "releaseInfo": "2019",
+   "imdbRating": "7.5"
   },
   {
    "id": "tt19500164",
@@ -335,7 +363,8 @@
     "Science-Fiction",
     "Action"
    ],
-   "releaseInfo": "2023"
+   "releaseInfo": "2023",
+   "imdbRating": "7.5"
   },
   {
    "id": "tt9806192",
@@ -348,22 +377,8 @@
     "Drame",
     "Fantastique"
    ],
-   "releaseInfo": "2019"
-  },
-  {
-   "id": "tt1816518",
-   "type": "movie",
-   "name": "Ernest et Célestine",
-   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3pNUKmcLhix0qEXsOUEVN15risM.jpg",
-   "description": "Dans le monde conventionnel des ours, il est mal vu de se lier d’amitié avec une souris. Et pourtant, Ernest, gros ours marginal, clown et musicien, va accueillir chez lui la petite Célestine, une orpheline qui a fui le monde souterrain des rongeurs. Ces deux solitaires vont se soutenir et se réconf",
-   "genres": [
-    "Animation",
-    "Familial",
-    "Crime",
-    "Drame",
-    "Comédie"
-   ],
-   "releaseInfo": "2012"
+   "releaseInfo": "2019",
+   "imdbRating": "7.5"
   },
   {
    "id": "tt10540510",
@@ -378,7 +393,24 @@
     "Fantastique",
     "Histoire"
    ],
-   "releaseInfo": "2022"
+   "releaseInfo": "2022",
+   "imdbRating": "7.1"
+  },
+  {
+   "id": "tt6900448",
+   "type": "movie",
+   "name": "Miraï, ma petite sœur",
+   "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVJoTdMTz0kA1oFAaKI86tNQYrW.jpg",
+   "description": "Kun est un petit garçon à l’enfance heureuse jusqu’à l’arrivée de Miraï, sa petite soeur. Jaloux de ce bébé qui monopolise l’attention de ses parents, il se replie peu à peu sur lui-même. Au fond de son jardin, où il se réfugie souvent, se trouve un arbre généalo-magique. Soudain, Kun est propulsé d",
+   "genres": [
+    "Animation",
+    "Familial",
+    "Fantastique",
+    "Aventure",
+    "Drame"
+   ],
+   "releaseInfo": "2018",
+   "imdbRating": "7.0"
   }
  ]
 }
