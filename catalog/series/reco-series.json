@@ -6,7 +6,6 @@
    "name": "His Dark Materials : À la croisée des mondes",
    "poster": "https://artworks.thetvdb.com/banners/v4/series/360295/posters/63a31014659b7.jpg",
    "description": "Courageuse et futée, Lyra se retrouve embarquée dans une folle aventure dans les contrées du Nord, à la recherche de son meilleur ami disparu. Pourquoi cette jeune fille orpheline, élevée dans l'atmosphère austère et confinée du prestigieux Jordan College, fait-elle l'objet de tant d'attentions ? Se",
-   "releaseInfo": "2019-2022",
    "genres": [
     "Science Fiction",
     "Fantasy",
@@ -14,37 +13,8 @@
     "Drama",
     "Adventure",
     "Action"
-   ]
-  },
-  {
-   "id": "tt13309742",
-   "type": "series",
-   "name": "Blue Eye Samurai",
-   "poster": "https://artworks.thetvdb.com/banners/v4/series/434151/posters/65105a57cf28e.jpg",
-   "description": "Cherchant à se venger de ceux qui ont fait d'elle une paria dans le Japon de l'époque d'Edo, une jeune guerrière se fraye un chemin sanglant vers son destin.",
-   "releaseInfo": "2023-",
-   "genres": [
-    "Drama",
-    "Animation",
-    "Adventure",
-    "Action"
-   ]
-  },
-  {
-   "id": "tt6517102",
-   "type": "series",
-   "name": "Castlevania",
-   "poster": "https://artworks.thetvdb.com/banners/posters/329065-2.jpg",
-   "description": "Un tueur de vampires se bat pour sauver une ville assiégée par une armée de bêtes contrôlées par Dracula. Série inspirée du jeu vidéo classique.",
-   "releaseInfo": "2017-2021",
-   "genres": [
-    "Horror",
-    "Fantasy",
-    "Drama",
-    "Animation",
-    "Adventure",
-    "Action"
-   ]
+   ],
+   "releaseInfo": "2019-2023"
   },
   {
    "id": "tt5180504",
@@ -52,14 +22,114 @@
    "name": "The Witcher",
    "poster": "https://artworks.thetvdb.com/banners/v4/series/362696/posters/6447fd2e14bd2.jpg",
    "description": "Le sorceleur Geralt, un chasseur de monstres mutant, se bat pour trouver sa place dans un monde où les humains se révèlent souvent plus vicieux que les bêtes.",
-   "releaseInfo": "2019-",
    "genres": [
     "Fantasy",
     "Drama",
     "Adventure",
     "Action",
     "Mystery"
-   ]
+   ],
+   "releaseInfo": "2019-"
+  },
+  {
+   "id": "tt2403776",
+   "type": "series",
+   "name": "Shadow and Bone : La saga Grisha",
+   "poster": "https://artworks.thetvdb.com/banners/series/369844/posters/603f86e7790fe.jpg",
+   "description": "Des forces maléfiques conspirent contre une jeune soldate armée d'un pouvoir magique qui pourrait unir son monde. Inspiré de la série de romans \"Grisha\" de Leigh Bardugo.",
+   "genres": [
+    "Fantasy",
+    "Drama",
+    "Adventure",
+    "Action",
+    "Romance",
+    "Mystery",
+    "War"
+   ],
+   "releaseInfo": "2021-2023"
+  },
+  {
+   "id": "tt1869454",
+   "type": "series",
+   "name": "Good Omens",
+   "poster": "https://artworks.thetvdb.com/banners/posters/5c65fa5e7fa62.jpg",
+   "description": "L'ange Aziraphale et le démon Rampa après 6 000 ans de vie sur la Terre ne se résignent pas à la venue imminente de l'Apocalypse. Meilleurs ennemis du monde, ils se liguent ensemble contre leurs autorités supérieures et tentent d'influencer le cours apparemment inéluctable des événements en éduquant",
+   "genres": [
+    "Fantasy",
+    "Comedy"
+   ],
+   "releaseInfo": "2019-2026"
+  },
+  {
+   "id": "tt13802576",
+   "type": "series",
+   "name": "Lockwood & Co.",
+   "poster": "https://artworks.thetvdb.com/banners/v4/series/422028/posters/63c0852b14cea.jpg",
+   "description": "Une jeune fille aux facultés psychiques extraordinaires vient épauler deux ados surdoués dans leur petite agence de chasse aux fantômes à Londres.",
+   "genres": [
+    "Fantasy",
+    "Drama",
+    "Adventure",
+    "Thriller"
+   ],
+   "releaseInfo": "2023"
+  },
+  {
+   "id": "tt12324366",
+   "type": "series",
+   "name": "Percy Jackson et les Olympiens",
+   "poster": "https://artworks.thetvdb.com/banners/v4/series/415151/posters/6582676d10790.jpg",
+   "description": "Le demi-dieu Percy Jackson mène une quête à travers l'Amérique pour empêcher une guerre entre les dieux de l'Olympe.",
+   "genres": [
+    "Fantasy",
+    "Drama",
+    "Adventure"
+   ],
+   "releaseInfo": "2023-"
+  },
+  {
+   "id": "tt0489974",
+   "type": "series",
+   "name": "Carnival Row",
+   "poster": "https://artworks.thetvdb.com/banners/v4/series/365026/posters/63f3d878285a4.jpg",
+   "description": "Dans un monde fantastique à l’époque victorienne, où les créatures mythologiques doivent cohabiter avec les humains, le détective Rycroft Philostrate et une fée réfugiée du nom de Vignette Stonemoss vivent une dangereuse relation au cœur d’une société de plus en plus intolérante.",
+   "genres": [
+    "Fantasy",
+    "Drama",
+    "Crime",
+    "Thriller",
+    "Mystery"
+   ],
+   "releaseInfo": "2019-2023"
+  },
+  {
+   "id": "tt1199099",
+   "type": "series",
+   "name": "Merlin (2008)",
+   "poster": "https://artworks.thetvdb.com/banners/posters/83123-7.jpg",
+   "description": "Dans la mythique cité de Camelot, certaines histoires se racontent comme on le fait aujourd'hui, au XXIème siècle. Entre enchantements et mystères, c'est là qu'un jeune homme nommé Merlin se lie d'amitié avec un certain Arthur...",
+   "genres": [
+    "Fantasy",
+    "Drama",
+    "Adventure",
+    "Action"
+   ],
+   "releaseInfo": "2008-2012"
+  },
+  {
+   "id": "tt6905542",
+   "type": "series",
+   "name": "Dark Crystal : Le temps de la résistance",
+   "poster": "https://artworks.thetvdb.com/banners/posters/5d1043294c237.jpg",
+   "description": "Dans ce préquel du classique fantastique, trois jeunes Gelfling ayant découvert un secret terrifiant inspirent une rébellion contre le cruel empereur.",
+   "genres": [
+    "Science Fiction",
+    "Fantasy",
+    "Family",
+    "Drama",
+    "Adventure"
+   ],
+   "releaseInfo": "2019"
   }
  ]
 }

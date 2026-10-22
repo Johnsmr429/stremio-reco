@@ -1,0 +1,449 @@
+{
+ "metas": [
+  {
+   "id": "tt8688814",
+   "type": "series",
+   "name": "Le Prince des dragons",
+   "poster": "https://artworks.thetvdb.com/banners/series/350123/posters/5f986a36c0af2.jpg",
+   "description": "Deux princes humains forment une alliance avec l'elfe assassin envoyé pour les tuer et s'embarquent dans une quête pour ramener la paix dans leurs territoires en guerre.",
+   "genres": [
+    "Fantasy",
+    "Family",
+    "Drama",
+    "Animation",
+    "Adventure",
+    "Action",
+    "Thriller"
+   ],
+   "releaseInfo": "2018-2024"
+  },
+  {
+   "id": "tt9018736",
+   "type": "series",
+   "name": "Avatar : Le dernier maître de l'air",
+   "poster": "https://artworks.thetvdb.com/banners/v4/series/385925/posters/65ae8494f2a61.jpg",
+   "description": "Les nations de l'Eau, de la Terre, du Feu et de l'Air vivaient en harmonie... jusqu'au jour où tout a changé. Une adaptation en prise de vues réelles de l'histoire d'Aang.",
+   "genres": [
+    "Fantasy",
+    "Drama",
+    "Comedy",
+    "Adventure",
+    "Action",
+    "Mystery"
+   ],
+   "releaseInfo": "2024-"
+  },
+  {
+   "id": "tt10482560",
+   "type": "series",
+   "name": "Kipo et l'âge des Animonstres",
+   "poster": "https://artworks.thetvdb.com/banners/series/365463/posters/5f5a8386824ae.jpg",
+   "description": "Sur une Terre post-apocalyptique. Kipo est une jeune fille qui a passé sa jeunesse sous la terre. Elle décide de s'aventurer sur la surface. Elle rejoint un groupe hétéroclite de survivants qui traverse le pays...",
+   "genres": [
+    "Science Fiction",
+    "Fantasy",
+    "Comedy",
+    "Children",
+    "Animation",
+    "Adventure",
+    "Action"
+   ],
+   "releaseInfo": "2020"
+  },
+  {
+   "id": "tt8050756",
+   "type": "series",
+   "name": "Luz à Osville",
+   "poster": "https://artworks.thetvdb.com/banners/series/349578/posters/62003549.jpg",
+   "description": "Luz est une adolescente qui se retrouve accidentellement plongée dans le Royaume des Démons. Elle a un rêve : devenir une sorcière.",
+   "genres": [
+    "Horror",
+    "Fantasy",
+    "Family",
+    "Drama",
+    "Comedy",
+    "Children",
+    "Animation",
+    "Adventure",
+    "Action",
+    "Mystery"
+   ],
+   "releaseInfo": "2020-2023"
+  },
+  {
+   "id": "tt6385540",
+   "type": "series",
+   "name": "Hilda",
+   "poster": "https://artworks.thetvdb.com/banners/posters/5c48791cdc64c.jpg",
+   "description": "La petite Hilda traverse une nature sauvage peuplée d'elfes et de géants pour vivre d'incroyables aventures en ville avec ses nouveaux amis et de mystérieuses créatures.",
+   "genres": [
+    "Fantasy",
+    "Family",
+    "Comedy",
+    "Animation",
+    "Adventure"
+   ],
+   "releaseInfo": "2018-2023"
+  },
+  {
+   "id": "tt22248376",
+   "type": "series",
+   "name": "Frieren",
+   "poster": "https://artworks.thetvdb.com/banners/v4/series/424536/posters/6516fe48e7a06.jpg",
+   "description": "L’elfe Frieren a vaincu le roi des démons aux côtés du groupe mené par le jeune héros Himmel. Après dix années d’efforts, ils ont ramené la paix dans le royaume. Parce qu’elle est une elfe, Frieren peut vivre plus de mille ans. Elle part seule en voyage, promettant à ses amis qu'elle reviendra les v",
+   "genres": [
+    "Fantasy",
+    "Drama",
+    "Animation",
+    "Adventure",
+    "Anime"
+   ],
+   "releaseInfo": "2023-"
+  },
+  {
+   "id": "tt13309742",
+   "type": "series",
+   "name": "Blue Eye Samurai",
+   "poster": "https://artworks.thetvdb.com/banners/v4/series/434151/posters/65105a57cf28e.jpg",
+   "description": "Cherchant à se venger de ceux qui ont fait d'elle une paria dans le Japon de l'époque d'Edo, une jeune guerrière se fraye un chemin sanglant vers son destin.",
+   "genres": [
+    "Drama",
+    "Animation",
+    "Adventure",
+    "Action"
+   ],
+   "releaseInfo": "2023-"
+  },
+  {
+   "id": "tt10233448",
+   "type": "series",
+   "name": "Vinland Saga",
+   "poster": "https://artworks.thetvdb.com/banners/v4/series/359274/posters/6091b3847ff64.jpg",
+   "description": "À la fin du premier millénaire, les guerriers les plus forts et les plus cruels de leur temps se sont répandus à travers le monde entier : les Vikings. Thorfinn, le fils de l’homme réputé comme étant le plus fort des guerriers, décide de passer sa vie sur les champs de batailles malgré son jeune âge",
+   "genres": [
+    "Drama",
+    "Animation",
+    "Adventure",
+    "Anime",
+    "History",
+    "War"
+   ],
+   "releaseInfo": "2019-2023"
+  },
+  {
+   "id": "tt12343534",
+   "type": "series",
+   "name": "Jujutsu Kaisen",
+   "poster": "https://artworks.thetvdb.com/banners/v4/series/377543/posters/609cbb5bd37d8.jpg",
+   "description": "Souffrance, regrets, humiliation : dans certains cas, leur accumulation dans un même endroit provoque des malédictions souvent fatales. Nous suivons le quotidien de Yuji Itadori, lycéen et membre du club de spiritisme. Il ne croit pas aux fantômes, mais sa force physique hors du commun est un précie",
+   "genres": [
+    "Horror",
+    "Fantasy",
+    "Drama",
+    "Animation",
+    "Adventure",
+    "Action",
+    "Anime"
+   ],
+   "releaseInfo": "2020-"
+  },
+  {
+   "id": "tt1865718",
+   "type": "series",
+   "name": "Souvenirs de Gravity Falls",
+   "poster": "https://artworks.thetvdb.com/banners/v4/series/259972/posters/671482f0a8f98.jpg",
+   "description": "Les aventures de jumeaux, un frère et une soeur, Dipper et Marbel Pines, dont les plans estivaux sont ruinés lorsque leurs parents décident de les envoyer chez leur grand oncle Stan à Gravity Falls, dans l'Oregon. Celui-ci tient un musée, le plus bizarre qui soit, un attrape-touristes. Rapidement, i",
+   "genres": [
+    "Science Fiction",
+    "Horror",
+    "Fantasy",
+    "Family",
+    "Drama",
+    "Comedy",
+    "Animation",
+    "Adventure",
+    "Action",
+    "Thriller",
+    "Mystery"
+   ],
+   "releaseInfo": "2012-2016"
+  },
+  {
+   "id": "tt8050740",
+   "type": "series",
+   "name": "Amphibia",
+   "poster": "https://artworks.thetvdb.com/banners/posters/5da1ad6b98a61.jpg",
+   "description": "Anne Boonchuy, ado narcissique de 13 ans, est envoyée dans le monde magique d'Amphibia, peuplé d'hommes-grenouilles. Avec l'aide du jeune Sprig, Anne va devenir l'héroïne de ce monde parallèle et entamer une véritable amitié pour la première fois.",
+   "genres": [
+    "Science Fiction",
+    "Fantasy",
+    "Family",
+    "Drama",
+    "Comedy",
+    "Children",
+    "Animation",
+    "Adventure",
+    "Action",
+    "Mystery"
+   ],
+   "releaseInfo": "2019-2022"
+  },
+  {
+   "id": "tt3718778",
+   "type": "series",
+   "name": "La forêt de l'étrange",
+   "poster": "https://artworks.thetvdb.com/banners/v4/series/281643/posters/679537bce30f5.jpg",
+   "description": "Wirt et Greg sont perdus dans une forêt. Alors qu'ils essaient de retrouver leur chemin pour rentrer chez eux, un mystérieux bûcheron les met en garde car la Bête rôde dans la Forêt de l'Étrange.",
+   "genres": [
+    "Horror",
+    "Fantasy",
+    "Family",
+    "Animation",
+    "Adventure",
+    "Thriller",
+    "Mystery"
+   ],
+   "releaseInfo": "2014"
+  },
+  {
+   "id": "tt0278238",
+   "type": "series",
+   "name": "Samouraï Jack",
+   "poster": "https://artworks.thetvdb.com/banners/posters/75164-4.jpg",
+   "description": "Cette série met en scène les aventures de Jack, un samouraï qui a pour quête de sauver Bia Young Mei, une jeune princesse chinoise-japonaise et de vaincre Aku, le plus dangereux démon du monde. Lors de leur premier affrontement, le samouraï, à deux doigts de la victoire, baisse sa garde et se retrou",
+   "genres": [
+    "Science Fiction",
+    "Fantasy",
+    "Drama",
+    "Animation",
+    "Adventure",
+    "Action",
+    "Thriller"
+   ],
+   "releaseInfo": "2001-2017"
+  },
+  {
+   "id": "tt0458290",
+   "type": "series",
+   "name": "Star Wars : The Clone Wars",
+   "poster": "https://artworks.thetvdb.com/banners/series/83268/posters/5e7a3a74059fe.jpg",
+   "description": "La galaxie est en proie à la Guerre des Clones qui oppose les maléfiques Séparatistes et leurs immenses armées d'androïdes à la République. Les Chevaliers Jedi, protecteurs de la République, luttent pour maintenir l'ordre et restaurer la paix tandis que de nouvelles planètes succombent chaque jour a",
+   "genres": [
+    "Science Fiction",
+    "Fantasy",
+    "Drama",
+    "Animation",
+    "Adventure",
+    "Action"
+   ],
+   "releaseInfo": "2008-2020"
+  },
+  {
+   "id": "tt6517102",
+   "type": "series",
+   "name": "Castlevania",
+   "poster": "https://artworks.thetvdb.com/banners/posters/329065-2.jpg",
+   "description": "Un tueur de vampires se bat pour sauver une ville assiégée par une armée de bêtes contrôlées par Dracula. Série inspirée du jeu vidéo classique.",
+   "genres": [
+    "Horror",
+    "Fantasy",
+    "Drama",
+    "Animation",
+    "Adventure",
+    "Action"
+   ],
+   "releaseInfo": "2017-2021"
+  },
+  {
+   "id": "tt12590266",
+   "type": "series",
+   "name": "Cyberpunk: Edgerunners",
+   "poster": "https://artworks.thetvdb.com/banners/series/384541/posters/5ef503b89742f.jpg",
+   "description": "Dans une société dystopique rongée par la corruption et les implants cybernétiques, un jeune de la rue talentueux et impulsif aspire à devenir un mercenaire hors-la-loi.",
+   "genres": [
+    "Science Fiction",
+    "Crime",
+    "Animation",
+    "Adventure",
+    "Action",
+    "Thriller",
+    "Anime"
+   ],
+   "releaseInfo": "2022-"
+  },
+  {
+   "id": "tt5897304",
+   "type": "series",
+   "name": "Mob Psycho 100",
+   "poster": "https://artworks.thetvdb.com/banners/v4/series/307375/posters/60aa39f03e5be.jpg",
+   "description": "Nous suivons le quotidien de Kageyama Shigeo, alias Mob, un collégien avec de puissants pouvoirs psychiques. Il est l’un des plus puissants de son genre. Cependant, Shigeo a arrêté d’utiliser ses pouvoirs en public à cause du regard des gens. Cette année, l’adolescent veut simplement se rapprocher d",
+   "genres": [
+    "Fantasy",
+    "Comedy",
+    "Action",
+    "Anime"
+   ],
+   "releaseInfo": "2016-2022"
+  },
+  {
+   "id": "tt2098220",
+   "type": "series",
+   "name": "Hunter x Hunter (2011)",
+   "poster": "https://artworks.thetvdb.com/banners/v4/series/252322/posters/60808e76cd16f.jpg",
+   "description": "Gon Freeccs a presque douze ans, et son rêve est de devenir hunter (chasseur en anglais).\r\nLes hunters sont des aventuriers d’élite qui peuvent être chasseurs de prime, chefs-cuisinier, archéologues, zoologues, justiciers ou consultants dans divers domaines.\r\nSon père, Jin Freeccs, qu’il ne connaît ",
+   "genres": [
+    "Fantasy",
+    "Drama",
+    "Comedy",
+    "Animation",
+    "Adventure",
+    "Action",
+    "Anime"
+   ],
+   "releaseInfo": "2011-2014"
+  },
+  {
+   "id": "tt21621494",
+   "type": "series",
+   "name": "Gloutons & Dragons",
+   "poster": "https://artworks.thetvdb.com/banners/v4/series/423257/posters/657c6c3dccffc.jpg",
+   "description": "Donjons, dragons... et un bon ragoût de monstre ? Des aventuriers plongent au sein d'un royaume maudit pour sauver leur amie et prouvent leurs talents de cordons-bleus.",
+   "genres": [
+    "Food",
+    "Fantasy",
+    "Comedy",
+    "Animation",
+    "Adventure",
+    "Action",
+    "Anime"
+   ],
+   "releaseInfo": "2024-"
+  },
+  {
+   "id": "tt1734135",
+   "type": "series",
+   "name": "Chasseurs de Trolls : Les Contes d'Arcadia",
+   "poster": "https://artworks.thetvdb.com/banners/posters/318201-2.jpg",
+   "description": "Jimmy Dulac, un adolescent de quinze ans, découvre une amulette magique qui lui donne le titre de Trollhunter, un défenseur des trolls qui vivent en dessous d'une ville humaine nommée Arcadia.",
+   "genres": [
+    "Science Fiction",
+    "Fantasy",
+    "Family",
+    "Drama",
+    "Comedy",
+    "Children",
+    "Animation",
+    "Adventure",
+    "Action"
+   ],
+   "releaseInfo": "2016-2018"
+  },
+  {
+   "id": "tt7745956",
+   "type": "series",
+   "name": "She-Ra et les princesses au pouvoir",
+   "poster": "https://artworks.thetvdb.com/banners/posters/5d4be699705a1.jpg",
+   "description": "Dans cette adaptation de la série des années 1980, une orpheline devenue la guerrière She-Ra grâce à une épée magique rejoint la rébellion contre le mal tandis que sa meilleure amie reste au sein de la Horde Sauvage.",
+   "genres": [
+    "Science Fiction",
+    "Fantasy",
+    "Family",
+    "Children",
+    "Animation"
+   ],
+   "releaseInfo": "2018-2020"
+  },
+  {
+   "id": "tt5580664",
+   "type": "series",
+   "name": "Voltron : Le Défenseur légendaire",
+   "poster": "https://artworks.thetvdb.com/banners/posters/307899-1.jpg",
+   "description": "L’histoire se concentre sur cinq adolescents nommés Keith, Lance, Hunk, Pidge et Shiro. Les héros doivent défendre Arus des forces aliens de King Zarkon. Les personnages principaux auront chacun leurs propres raisons de partir en mission",
+   "genres": [
+    "Science Fiction",
+    "Fantasy",
+    "Family",
+    "Drama",
+    "Comedy",
+    "Children",
+    "Animation",
+    "Adventure",
+    "Action"
+   ],
+   "releaseInfo": "2016-2018"
+  },
+  {
+   "id": "tt1807824",
+   "type": "series",
+   "name": "Wakfu",
+   "poster": "https://artworks.thetvdb.com/banners/posters/94121-6.jpg",
+   "description": "Pendant les mille ans qui suivirent l'aventure DOFUS, le Monde des Douze a connu de grands bouleversements. Le terrible ogre Ogrest a réussi l'impossible : il a réuni les six Dofus. Malheureusement pour lui, il est devenu la proie de ses propres pouvoirs... Hors de lui, et sans maîtriser sa puissanc",
+   "genres": [
+    "Fantasy",
+    "Family",
+    "Animation",
+    "Adventure",
+    "Action"
+   ],
+   "releaseInfo": "2008-"
+  },
+  {
+   "id": "tt10625492",
+   "type": "series",
+   "name": "Twilight of the Gods",
+   "poster": "https://artworks.thetvdb.com/banners/v4/series/404605/posters/66ed05a550d31.jpg",
+   "description": "Zack Snyder présente une vision audacieuse et sanglante de la mythologie nordique dans cette série d'animation pour adultes sur une guerrière qui en veut à mort aux dieux.",
+   "genres": [
+    "Fantasy",
+    "Animation",
+    "Adventure",
+    "Action"
+   ],
+   "releaseInfo": "2024"
+  },
+  {
+   "id": "tt13622982",
+   "type": "series",
+   "name": "Star Wars : Visions",
+   "poster": "https://artworks.thetvdb.com/banners/v4/series/393190/posters/6139de458f13b.jpg",
+   "description": "Star Wars: Visions est une anthologie de courts-métrages animés rendant hommage à Star Wars à travers l'œil des meilleurs créateurs d'animés au monde.",
+   "genres": [
+    "Science Fiction",
+    "Fantasy",
+    "Animation",
+    "Adventure",
+    "Action",
+    "Anime"
+   ],
+   "releaseInfo": "2021-"
+  },
+  {
+   "id": "tt20723374",
+   "type": "series",
+   "name": "Star Wars : Tales of the Jedi",
+   "poster": "https://artworks.thetvdb.com/banners/v4/series/420659/posters/6370e38d2d28a.jpg",
+   "description": "Cette série événement en six épisodes met en scène des Jedi à l'ère de la prélogie. On suivra ainsi la vie très différente de deux d'entre eux, Ahsoka Tano et le comte Dooku. Chacun sera mis à l'épreuve et devra faire des choix qui définiront sa destinée.",
+   "genres": [
+    "Science Fiction",
+    "Fantasy",
+    "Animation"
+   ],
+   "releaseInfo": "2022"
+  },
+  {
+   "id": "tt14069590",
+   "type": "series",
+   "name": "DOTA: Dragon's Blood",
+   "poster": "https://artworks.thetvdb.com/banners/v4/series/396983/posters/60573bf766278.jpg",
+   "description": "Une série d'animation fantastique inspirée du jeu en ligne où un Chevalier Dragon troublé, mais plein de bravoure, est déterminé à se débarrasser d'un démoniaque fléau.",
+   "genres": [
+    "Fantasy",
+    "Animation",
+    "Adventure",
+    "Action",
+    "Anime"
+   ],
+   "releaseInfo": "2021-2022"
+  }
+ ]
+}

@@ -1,6 +1,6 @@
 {
  "id": "com.johnsmr429.reco",
- "version": "1.0.0",
+ "version": "1.1.0",
  "name": "Recommandés pour toi",
  "description": "Sélection perso basée sur ta bibliothèque Stremio.",
  "resources": [
@@ -12,6 +12,21 @@
  ],
  "catalogs": [
   {
+   "type": "series",
+   "id": "reco-avatar",
+   "name": "Pour les fans d'Avatar"
+  },
+  {
+   "type": "series",
+   "id": "reco-ahs",
+   "name": "Si tu aimes American Horror Story"
+  },
+  {
+   "type": "series",
+   "id": "reco-series",
+   "name": "Séries fantasy à découvrir"
+  },
+  {
    "type": "movie",
    "id": "reco-anim",
    "name": "Ghibli & animation"
@@ -22,9 +37,9 @@
    "name": "Fantasy à découvrir"
   },
   {
-   "type": "series",
-   "id": "reco-series",
-   "name": "Séries à découvrir"
+   "type": "movie",
+   "id": "reco-horror",
+   "name": "Films d'horreur"
   }
  ],
  "behaviorHints": {
